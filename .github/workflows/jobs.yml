@@ -72,7 +72,7 @@ jobs:
               ("ReliefWeb · shelter", "rss", "https://reliefweb.int/jobs?search=Shelter", ""),
               ("ReliefWeb · architect", "rss", "https://reliefweb.int/jobs?search=Architecture", ""),
               ("ReliefWeb · housing", "rss", "https://reliefweb.int/jobs?search=Housing", ""),
-              ("ReliefWeb · engineer", "rss", "https://reliefweb.int/jobs?search=Engineerr", ""),
+              ("ReliefWeb · engineer", "rss", "https://reliefweb.int/jobs?search=Engineer", ""),
               ("ReliefWeb · Bosnia and Herzegovina", "rss", "https://reliefweb.int/jobs/rss.xml?search=%22Bosnia%20and%20Herzegovina%22", ""),
               ("unvacancies · engineering", "html", "https://unvacancies.org/jobs/function/engineering", r"/jobs/[A-Za-z0-9-]+-\d+/?$"),
               ("unvacancies · UNOPS", "html", "https://unvacancies.org/jobs/organization/unops", r"/jobs/[A-Za-z0-9-]+-\d+/?$"),
