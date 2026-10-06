@@ -19,6 +19,7 @@ env:
   FEEDS: |
         # Paste each new link on its own line under this one:
         https://www.google.com/alerts/feeds/07122033372245260923/15316257510013749821
+        https://reliefweb.int/jobs?search=Construction
 
 # ---------------- nothing to edit below this line ----------------
 
