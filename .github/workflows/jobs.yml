@@ -66,12 +66,12 @@ jobs:
           # ---------------- built-in sources (no setup needed) ----------------
           # kind: rss = RSS/Atom feed · html = job-board page (links matching the pattern are read)
           SOURCES = [
-              ("ReliefWeb · construction", "rss", "https://reliefweb.int/jobs/rss.xml?search=construction", ""),
-              ("ReliefWeb · infrastructure", "rss", "https://reliefweb.int/jobs/rss.xml?search=infrastructure", ""),
-              ("ReliefWeb · shelter", "rss", "https://reliefweb.int/jobs/rss.xml?search=shelter", ""),
-              ("ReliefWeb · architect", "rss", "https://reliefweb.int/jobs/rss.xml?search=architect", ""),
-              ("ReliefWeb · housing", "rss", "https://reliefweb.int/jobs/rss.xml?search=housing", ""),
-              ("ReliefWeb · engineer", "rss", "https://reliefweb.int/jobs/rss.xml?search=engineer", ""),
+              ("ReliefWeb · construction", "rss", "https://reliefweb.int/jobs?search=Construction", ""),
+              ("ReliefWeb · infrastructure", "rss", "https://reliefweb.int/jobs?search=infrastructure", ""),
+              ("ReliefWeb · shelter", "rss", "https://reliefweb.int/jobs?search=shelter", ""),
+              ("ReliefWeb · architect", "rss", "https://reliefweb.int/jobs?search=architect", ""),
+              ("ReliefWeb · housing", "rss", "https://reliefweb.int/jobs?search=housing", ""),
+              ("ReliefWeb · engineer", "rss", "https://reliefweb.int/jobs?search=engineer", ""),
               ("ReliefWeb · Bosnia and Herzegovina", "rss", "https://reliefweb.int/jobs/rss.xml?search=%22Bosnia%20and%20Herzegovina%22", ""),
               ("unvacancies · engineering", "html", "https://unvacancies.org/jobs/function/engineering", r"/jobs/[A-Za-z0-9-]+-\d+/?$"),
               ("unvacancies · UNOPS", "html", "https://unvacancies.org/jobs/organization/unops", r"/jobs/[A-Za-z0-9-]+-\d+/?$"),
