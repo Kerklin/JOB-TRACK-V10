@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-06T3"
+    "muted": "2026-10-07T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-06T3"
+    "muted": "2026-10-07T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-06",
+    "last_ok": "2026-10-07",
     "muted": ""
    },
    "UNOPS careers": {
@@ -67,11 +67,11 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-10-06T3"
+    "muted": "2026-10-07T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-06",
+  "maint": "2026-10-07",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -87,7 +87,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
@@ -98,7 +98,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -109,7 +109,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -120,7 +120,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Project Manager, Sarajevo, Bosnia and Herzegovina",
@@ -131,7 +131,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina",
@@ -142,7 +142,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum",
@@ -153,7 +153,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing, San Jose, California, United States",
@@ -164,7 +164,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Senior Manufacturing Engineer, San Jose, California, United States",
@@ -175,7 +175,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -186,7 +186,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Shelter and WaSH Officer Yemen Hodeidah (National)",
@@ -197,7 +197,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Wash & Shelter Coordinator CAR Bouar",
@@ -208,7 +208,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -219,7 +219,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon",
@@ -230,7 +230,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Infrastructure Project Manager, Port Moresby, Papua New Guinea",
@@ -241,7 +241,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-07"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
