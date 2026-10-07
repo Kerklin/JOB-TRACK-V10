@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**45 open jobs** (🟢 11 · 🟡 20 · ⚪ 14) · updated 2026-10-07 · checks every 5 minutes · sources working today: 2 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**53 open jobs** (🟢 15 · 🟡 22 · ⚪ 16) · updated 2026-10-07 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -10,9 +10,13 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 |---|---|---|---|---|---|
 | [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593) 🆕 | via unvacancies · engineering | 2026-10-08 | 🔴 1 days | 🟢 High | Found automatically (16 points) |
 | [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) 🆕 | CTG · DR Congo | 2026-10-10 | 🔴 3 days | 🟢 High | Check French + nationality rules |
+| [Foundry Technical Engineering Lead](https://unvacancies.org/jobs/foundry-technical-engineering-lead-68556004) 🆕 | via unvacancies · engineering | 2026-10-15 | 8 days | 🟢 High | Found automatically (10 points) |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 23 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) 🆕 | UNOPS · Homs · IICA-2 | 2026-10-30 | 23 days | 🟢 High | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) 🆕 | Huawei · Sarajevo | 2026-12-14 | 68 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [WatHab Generalist Project Manager, Myanmar](https://unjobs.org/vacancies/1791298565977) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
+| [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (13 points) |
+| [Engineer, Dodoma, Tanzania](https://unjobs.org/vacancies/1791349295461) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (15 points) |
 | [Joint Project Coordinator \[Opent to Tier 1 & 2 applicants\], Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1790801308669) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (10 points) |
 | [Project Manager, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1789649136938) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (11 points) |
 | [Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1778607480538) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (11 points) |
@@ -30,6 +34,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) 🆕 | UN-Habitat · Montreal · consultancy | 2026-10-21 | 14 days | 🟡 Medium | Deadline from listing |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 23 days | 🟡 Medium | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) 🆕 | UN-Habitat · Nairobi | 2026-11-07 | 31 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E](https://unjobs.org/vacancies/1791352893661) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
+| [Construction Engineer](https://unjobs.org/vacancies/1791345738022) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing, San Jose, California, United States](https://unjobs.org/vacancies/1791190532780) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Senior Manufacturing Engineer, San Jose, California, United States](https://unjobs.org/vacancies/1791190534451) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791190732675) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
@@ -45,8 +51,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)](https://www.impactpool.org/jobs/1239099) 🆕 | UNV · Korhogo | 2026-10-13 | 🔴 6 days | ⚪ Low | Junior UNV, French. Listings disagree on national vs international |
 | [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) 🆕 | UNICEF · Sarajevo | 2026-10-14 | 🔴 7 days | ⚪ Low | Social protection, not construction |
 | [Junior Housing and Urban Development Analyst](https://unhabitat.org/join-us) 🆕 | UN-Habitat · Montreal · IICA-1 | 2026-10-15 | 8 days | ⚪ Low | Junior – you're overqualified |
+| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) 🆕 | via unvacancies · engineering | 2026-10-20 | 13 days | ⚪ Low | Found automatically (5 points) |
 | [Associate Sector Specialist – Railway Infrastructure](https://unjobs.org/skills/infrastructure-projects) 🆕 | EIB · Luxembourg | 2026-10-21 | 14 days | ⚪ Low | EIB usually hires EU nationals |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/organization/un-habitat) 🆕 | UN-Habitat · Montreal · consultancy | 2026-10-21 | 14 days | ⚪ Low | Policy research. Deadline from listing |
+| [SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan](https://unjobs.org/vacancies/1791125088299) 🆕 | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Shelter and WaSH Technical Assistant Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153877) 🆕 | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Shelter and WaSH Officer Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153601) 🆕 | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Wash & Shelter Coordinator CAR Bouar](https://unjobs.org/vacancies/1791109150945) 🆕 | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
@@ -79,15 +87,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-06 |
+| unvacancies · engineering | 2026-10-07 |
 | unvacancies · UNOPS | 2026-10-07 |
 | unvacancies · UN-Habitat | 2026-10-06 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-06 |
-| UNjobs · construction | 2026-10-06 |
+| UNjobs · construction | 2026-10-07 |
 | UNjobs · infrastructure projects | 2026-10-07 |
 | UNOPS careers | 2026-10-06 |
 | UNICEF · construction | 2026-10-06 |
-| My link 1 | 2026-10-06 |
+| My link 1 | 2026-10-07 |
 | My link 2 | not yet |
 
 </details>
