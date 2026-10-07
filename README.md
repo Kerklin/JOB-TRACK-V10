@@ -1,8 +1,8 @@
-# My jobs – DH
+# My jobs – Damir Hadžić
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**53 open jobs** (🟢 15 · 🟡 22 · ⚪ 16) · updated 2026-10-07 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**55 open jobs** (🟢 17 · 🟡 22 · ⚪ 16) · updated 2026-10-07 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -14,6 +14,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) 🆕 | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 23 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) 🆕 | UNOPS · Homs · IICA-2 | 2026-10-30 | 23 days | 🟢 High | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) 🆕 | Huawei · Sarajevo | 2026-12-14 | 68 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791374669552) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
+| [Director, Sustainable Infrastructure Portfolio and Implementation](https://unjobs.org/vacancies/1791373293624) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
 | [WatHab Generalist Project Manager, Myanmar](https://unjobs.org/vacancies/1791298565977) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
 | [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (13 points) |
 | [Engineer, Dodoma, Tanzania](https://unjobs.org/vacancies/1791349295461) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (15 points) |
