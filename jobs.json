@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-07T3"
+    "muted": "2026-10-08T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-07T3"
+    "muted": "2026-10-08T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-07",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-08",
     "muted": ""
    },
    "My link 1": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-07",
+  "maint": "2026-10-08",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -362,7 +362,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Programme Management Specialist – UN-Habitat Syria",
@@ -395,7 +395,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "ETC Construction Coordinator (5 positions)",
@@ -406,7 +406,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -439,7 +439,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)",
@@ -461,7 +461,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Program Director for Europe",
@@ -472,7 +472,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
@@ -483,7 +483,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Consultant – Field Engineer (STRONG)",
@@ -538,7 +538,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Resident Engineer (BiH Tunnels)",
@@ -549,7 +549,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -560,7 +560,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Junior Housing and Urban Development Analyst",
@@ -571,7 +571,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Housing Policy Analysis and Reporting Specialist",
@@ -615,7 +615,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Project Officer (Displacement Management)",
@@ -626,7 +626,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
@@ -659,7 +659,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Director, Europe Sustainable Infrastructure, Energy",
@@ -670,7 +670,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-06"
+   "checked": "2026-10-08"
   },
   {
    "title": "Procurement Advisor",
