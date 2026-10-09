@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**55 open jobs** (🟢 18 · 🟡 23 · ⚪ 14) · updated 2026-10-09 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**58 open jobs** (🟢 19 · 🟡 25 · ⚪ 14) · updated 2026-10-09 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -13,6 +13,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 21 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 21 days | 🟢 High | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 66 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [WatHab Generalist Project Manager](https://unjobs.org/vacancies/1791513664020) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439395420) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439391453) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
 | [Vodokanal Cell Lead (WASH), Kyiv](https://unjobs.org/vacancies/1791439391194) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
@@ -37,6 +38,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 12 days | 🟡 Medium | Deadline from listing |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 21 days | 🟡 Medium | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 29 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [Facility Engineer (Civil) - NOA, Aden, Yemen](https://unjobs.org/vacancies/1791522065800) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
+| [100000000240.Facilities Coordination Officer, Doha](https://unjobs.org/vacancies/1791522050560) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Technical Program Manager, San Jose, California, United States](https://unjobs.org/vacancies/1791464597902) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Construction Engineer](https://unjobs.org/vacancies/1791439393965) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E](https://unjobs.org/vacancies/1791352893661) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
