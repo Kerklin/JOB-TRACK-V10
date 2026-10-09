@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-07T2"
+    "muted": "2026-10-09T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-08T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-07",
+    "last_ok": "2026-10-09",
     "muted": ""
    },
    "My link 2": {
@@ -71,13 +71,35 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-08",
+  "maint": "2026-10-09",
   "vcheck": "2026-10-06",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Technical Program Manager, San Jose, California, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791464597902",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09"
+  },
+  {
+   "title": "Construction Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791439393965",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-09",
+   "status": "open",
+   "checked": "2026-10-09"
+  },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
    "info": "via UNjobs · infrastructure projects",
@@ -128,10 +150,10 @@
    "link": "https://unjobs.org/vacancies/1791374669552",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07"
+   "status": "removed",
+   "checked": "2026-10-09"
   },
   {
    "title": "Director, Sustainable Infrastructure Portfolio and Implementation",
@@ -142,7 +164,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
@@ -153,7 +175,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Foundry Technical Engineering Lead",
@@ -164,7 +186,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "WatHab Generalist Project Manager, Myanmar",
@@ -175,7 +197,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "ENGINEER, P4",
@@ -186,7 +208,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E",
@@ -197,7 +219,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Engineer, Dodoma, Tanzania",
@@ -208,7 +230,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Construction Engineer",
@@ -216,10 +238,10 @@
    "link": "https://unjobs.org/vacancies/1791345738022",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-07"
+   "status": "removed",
+   "checked": "2026-10-09"
   },
   {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
@@ -230,7 +252,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Senior Drupal Infrastructure Engineer",
@@ -241,7 +263,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
@@ -252,7 +274,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -263,7 +285,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -271,10 +293,10 @@
    "link": "https://unjobs.org/vacancies/1790801308669",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-09)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-07"
+   "status": "removed",
+   "checked": "2026-10-09"
   },
   {
    "title": "Project Manager, Sarajevo, Bosnia and Herzegovina",
@@ -285,7 +307,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-07"
+   "checked": "2026-10-09"
   },
   {
    "title": "Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina",
