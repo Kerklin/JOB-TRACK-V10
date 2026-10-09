@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**60 open jobs** (🟢 20 · 🟡 26 · ⚪ 14) · updated 2026-10-09 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**65 open jobs** (🟢 23 · 🟡 28 · ⚪ 14) · updated 2026-10-09 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -10,10 +10,13 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 |---|---|---|---|---|---|
 | [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | 🔴 1 days | 🟢 High | Check French + nationality rules |
 | [Foundry Technical Engineering Lead](https://unvacancies.org/jobs/foundry-technical-engineering-lead-68556004) 🆕 | via unvacancies · engineering | 2026-10-15 | 🔴 6 days | 🟢 High | Found automatically (10 points) |
+| [MNCAH Data Engineering Consultant](https://unvacancies.org/jobs/mncah-data-engineering-consultant-unicef-office-of-strategy-and-evidence-integrated-health-data-anal-F-596115) 🆕 | via unvacancies · engineering | 2026-10-18 | 9 days | 🟢 High | Found automatically (11 points) |
 | [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa) 🆕 | via UNICEF · construction | 2026-10-18 | 9 days | 🟢 High | Found automatically (13 points) |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 21 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 21 days | 🟢 High | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 66 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [WASH Supervisor - Tyre, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
+| [Shelter Officer South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246494) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
 | [WatHab Generalist Project Manager](https://unjobs.org/vacancies/1791513664020) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439395420) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
 | [Senior Expert for Water Utilities and District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791439391453) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
@@ -39,6 +42,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 12 days | 🟡 Medium | Deadline from listing |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 21 days | 🟡 Medium | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 29 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [Shelter Coordinator South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246881) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
+| [Wash & Shelter Officer CAR Bouar](https://unjobs.org/vacancies/1791565245476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1791464823412) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Facility Engineer (Civil) - NOA, Aden, Yemen](https://unjobs.org/vacancies/1791522065800) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
 | [100000000240.Facilities Coordination Officer, Doha](https://unjobs.org/vacancies/1791522050560) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
