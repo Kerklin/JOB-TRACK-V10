@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**63 open jobs** (🟢 23 · 🟡 26 · ⚪ 14) · updated 2026-10-10 · checks every 5 minutes · sources working today: 6 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**65 open jobs** (🟢 24 · 🟡 27 · ⚪ 14) · updated 2026-10-10 · checks every 5 minutes · sources working today: 6 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -15,6 +15,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 20 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 20 days | 🟢 High | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 65 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791602789331) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (11 points) |
 | [WASH Supervisor - Tyre, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
 | [Shelter Officer South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246494) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
 | [WatHab Generalist Project Manager](https://unjobs.org/vacancies/1791513664020) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
@@ -41,6 +42,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 11 days | 🟡 Medium | Deadline from listing |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 20 days | 🟡 Medium | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 28 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut](https://unjobs.org/vacancies/1791602788994) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Shelter Coordinator South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246881) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Wash & Shelter Officer CAR Bouar](https://unjobs.org/vacancies/1791565245476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1791464823412) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |

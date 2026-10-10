@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-10T0"
+    "muted": "2026-10-10T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-10T0"
+    "muted": "2026-10-10T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -67,7 +67,7 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-10-10T0"
+    "muted": "2026-10-10T3"
    }
   },
   "since": "2026-10-06",
@@ -78,6 +78,28 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791602789331",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10"
+  },
+  {
+   "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1791602788994",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-10",
+   "status": "open",
+   "checked": "2026-10-10"
+  },
   {
    "title": "MNCAH Data Engineering Consultant",
    "info": "via unvacancies · engineering",
