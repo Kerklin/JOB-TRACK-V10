@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**63 open jobs** (🟢 23 · 🟡 26 · ⚪ 14) · updated 2026-10-10 · checks every 5 minutes · sources working today: 2 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**63 open jobs** (🟢 23 · 🟡 26 · ⚪ 14) · updated 2026-10-10 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -115,11 +115,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-09 |
 | unvacancies · UNOPS | 2026-10-10 |
 | unvacancies · UN-Habitat | 2026-10-08 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-09 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-10 |
 | UNjobs · construction | 2026-10-09 |
 | UNjobs · infrastructure projects | 2026-10-10 |
 | UNOPS careers | 2026-10-08 |
-| UNICEF · construction | 2026-10-09 |
+| UNICEF · construction | 2026-10-10 |
 | My link 1 | 2026-10-09 |
 | My link 2 | not yet |
 
