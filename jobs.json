@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-13T3"
+    "muted": "2026-10-15T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-15T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-13",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,105 @@
   ]
  },
  "jobs": [
+  {
+   "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083873447",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792083872868",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA, United States",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792029648292",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "NBC Urban Designer - International Consultant, Beirut, Lebanon",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792065675186",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867668525",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867670024",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja, Aru, Democratic Republic Of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791867671241",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "Shelter and Settlement Officer, Nyirol, South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910842362",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
+  {
+   "title": "WASH Officer, Uror, Jonglei State, South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1791910843244",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-15",
+   "status": "open",
+   "checked": "2026-10-15"
+  },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
    "info": "via UNjobs · construction",

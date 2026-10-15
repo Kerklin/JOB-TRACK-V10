@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**61 open jobs** (🟢 24 · 🟡 28 · ⚪ 9) · updated 2026-10-15 · checks every 5 minutes · sources working today: 6 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**70 open jobs** (🟢 24 · 🟡 34 · ⚪ 12) · updated 2026-10-15 · checks every 5 minutes · sources working today: 9 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -39,6 +39,12 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) 🆕 | via UNICEF · construction | 2026-10-22 | 🔴 7 days | 🟡 Medium | Found automatically (8 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 15 days | 🟡 Medium | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 23 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [WASH Officer CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083873447) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
+| [WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083872868) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
+| [Senior Project Engineer – Solar & BESS, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029648292) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
+| [NBC Urban Designer - International Consultant, Beirut, Lebanon](https://unjobs.org/vacancies/1792065675186) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867668525) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
+| [Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867670024) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Wash & Shelter Technical Assistant, Bouar, Central African Republic](https://unjobs.org/vacancies/1791910843659) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791882791098) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
@@ -64,6 +70,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | 🔴 5 days | ⚪ Low | Found automatically (5 points) |
 | [Associate Sector Specialist – Railway Infrastructure](https://unjobs.org/skills/infrastructure-projects) | EIB · Luxembourg | 2026-10-21 | 🔴 6 days | ⚪ Low | EIB usually hires EU nationals |
 | [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | 🔴 6 days | ⚪ Low | Policy research. Deadline from listing |
+| [Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja, Aru, Democratic Republic Of Congo](https://unjobs.org/vacancies/1791867671241) 🆕 | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
+| [Shelter and Settlement Officer, Nyirol, South Sudan](https://unjobs.org/vacancies/1791910842362) 🆕 | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
+| [WASH Officer, Uror, Jonglei State, South Sudan](https://unjobs.org/vacancies/1791910843244) 🆕 | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan](https://unjobs.org/vacancies/1791125088299) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Wash & Shelter Coordinator CAR Bouar](https://unjobs.org/vacancies/1791109150945) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Emergency WASH Officer (UN Volunteer)](https://unjobs.org/skills/construction) | UNICEF / UNV · Kyiv | – | check | ⚪ Low | Fallback only. Check national vs international UNV |
@@ -124,15 +133,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-13 |
+| unvacancies · engineering | 2026-10-15 |
 | unvacancies · UNOPS | 2026-10-15 |
 | unvacancies · UN-Habitat | 2026-10-15 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-15 |
-| UNjobs · construction | 2026-10-13 |
+| UNjobs · construction | 2026-10-15 |
 | UNjobs · infrastructure projects | 2026-10-15 |
 | UNOPS careers | 2026-10-15 |
 | UNICEF · construction | 2026-10-15 |
-| My link 1 | 2026-10-13 |
+| My link 1 | 2026-10-15 |
 | My link 2 | not yet |
 
 </details>
