@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-14T2"
+    "muted": "2026-10-15T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-14T2"
+    "muted": "2026-10-15T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-14",
+    "last_ok": "2026-10-15",
     "muted": ""
    },
    "UNOPS careers": {
@@ -67,11 +67,11 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-10-14T2"
+    "muted": "2026-10-15T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-14",
+  "maint": "2026-10-15",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -128,10 +128,10 @@
    "link": "https://unjobs.org/vacancies/1791644019637",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-15)",
    "found": "2026-10-12",
-   "status": "open",
-   "checked": "2026-10-12"
+   "status": "removed",
+   "checked": "2026-10-15"
   },
   {
    "title": "Education Infrastructure Engineer, Damascus",
@@ -142,7 +142,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan",
@@ -153,7 +153,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
@@ -164,7 +164,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
@@ -175,7 +175,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "National Building Code Adviser - STA",
@@ -186,7 +186,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-15"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -791,7 +791,7 @@
    "note": "EU work permit needed",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "Consultant – Field Engineer (STRONG)",
@@ -846,7 +846,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "Resident Engineer (BiH Tunnels)",
@@ -857,7 +857,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -868,7 +868,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "Junior Housing and Urban Development Analyst",
@@ -879,7 +879,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "Housing Policy Analysis and Reporting Specialist",
@@ -923,7 +923,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "Project Officer (Displacement Management)",
@@ -934,7 +934,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
@@ -967,7 +967,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "Director, Europe Sustainable Infrastructure, Energy",
@@ -978,7 +978,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-11"
+   "checked": "2026-10-15"
   },
   {
    "title": "Procurement Advisor",
