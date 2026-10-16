@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-15T0"
+    "muted": "2026-10-16T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-15T0"
+    "muted": "2026-10-16T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNOPS careers": {
@@ -67,17 +67,50 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-10-15T0"
+    "muted": "2026-10-16T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-15",
+  "maint": "2026-10-16",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792101963327",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792101948135",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792101947916",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
   {
    "title": "WASH Officer CAR Kaga Bandoro, Kaga-Bandoro",
    "info": "via UNjobs · construction",
@@ -186,7 +219,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
@@ -197,7 +230,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-16"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -329,7 +362,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "Shelter Coordinator South Sudan Ulang, Juba",
@@ -340,7 +373,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "Shelter Officer South Sudan Ulang, Juba",
@@ -351,7 +384,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "Wash & Shelter Officer CAR Bouar",
@@ -362,7 +395,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)",
@@ -373,7 +406,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -395,7 +428,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "100000000240.Facilities Coordination Officer, Doha",
@@ -403,10 +436,10 @@
    "link": "https://unjobs.org/vacancies/1791522050560",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-16)",
    "found": "2026-10-09",
-   "status": "open",
-   "checked": "2026-10-12"
+   "status": "removed",
+   "checked": "2026-10-16"
   },
   {
    "title": "WatHab Generalist Project Manager",
@@ -417,7 +450,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "Technical Program Manager, San Jose, California, United States",
@@ -428,7 +461,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "Construction Engineer",
@@ -436,10 +469,10 @@
    "link": "https://unjobs.org/vacancies/1791439393965",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-16)",
    "found": "2026-10-09",
-   "status": "open",
-   "checked": "2026-10-12"
+   "status": "removed",
+   "checked": "2026-10-16"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -502,10 +535,10 @@
    "link": "https://unjobs.org/vacancies/1791373293624",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-16)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-12"
+   "status": "removed",
+   "checked": "2026-10-16"
   },
   {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates",
@@ -516,7 +549,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "Foundry Technical Engineering Lead",
@@ -527,7 +560,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-12"
+   "checked": "2026-10-16"
   },
   {
    "title": "WatHab Generalist Project Manager, Myanmar",
