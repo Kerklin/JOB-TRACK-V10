@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-16T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-15T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-16",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "AI Engineer Consultant",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363",
+   "deadline": "2026-10-19",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
+  {
+   "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792144906524",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (17 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
+  {
+   "title": "CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792126888233",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-10-16",
+   "status": "open",
+   "checked": "2026-10-16"
+  },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
    "info": "via UNjobs · infrastructure projects",
