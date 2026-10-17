@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-17T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-15T3"
+    "muted": "2026-10-17T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-15",
+    "last_ok": "2026-10-17",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-16",
+  "maint": "2026-10-17",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -315,10 +315,10 @@
    "link": "https://unjobs.org/vacancies/1791882791098",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-13",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -329,7 +329,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "Manager, Facilities Transportation, Alamo",
@@ -403,10 +403,10 @@
    "link": "https://unjobs.org/vacancies/1791602789331",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-10",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut",
@@ -417,7 +417,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-10",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "MNCAH Data Engineering Consultant",
@@ -557,10 +557,10 @@
    "link": "https://unjobs.org/vacancies/1791439395420",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -568,10 +568,10 @@
    "link": "https://unjobs.org/vacancies/1791439391453",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Vodokanal Cell Lead (WASH), Kyiv",
@@ -579,10 +579,10 @@
    "link": "https://unjobs.org/vacancies/1791439391194",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -590,10 +590,10 @@
    "link": "https://unjobs.org/vacancies/1791394751777",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-08",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -656,10 +656,10 @@
    "link": "https://unjobs.org/vacancies/1791352896943",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-10-17)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-13"
+   "status": "removed",
+   "checked": "2026-10-17"
   },
   {
    "title": "Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E",
@@ -670,7 +670,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "Engineer, Dodoma, Tanzania",
@@ -681,7 +681,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "Construction Engineer",
@@ -703,7 +703,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "Senior Drupal Infrastructure Engineer",
@@ -714,7 +714,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
@@ -725,7 +725,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -736,7 +736,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-17"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
