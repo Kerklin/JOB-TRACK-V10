@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**68 open jobs** (🟢 23 · 🟡 32 · ⚪ 13) · updated 2026-10-17 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**70 open jobs** (🟢 23 · 🟡 34 · ⚪ 13) · updated 2026-10-17 · checks every 5 minutes · sources working today: 9 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -37,6 +37,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) | via UNICEF · construction | 2026-10-22 | 🔴 5 days | 🟡 Medium | Found automatically (8 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 13 days | 🟡 Medium | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 21 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
+| [Senior Project Manager (Infrastructure) – GEDSI, Climate & DRR](https://unjobs.org/vacancies/1792126888214) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [WASH Officer CAR Kaga Bandoro, Kaga-Bandoro](https://unjobs.org/vacancies/1792083873447) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
@@ -145,11 +147,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-17 |
-| unvacancies · UNOPS | 2026-10-16 |
+| unvacancies · UNOPS | 2026-10-17 |
 | unvacancies · UN-Habitat | 2026-10-17 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-17 |
 | UNjobs · construction | 2026-10-17 |
-| UNjobs · infrastructure projects | 2026-10-16 |
+| UNjobs · infrastructure projects | 2026-10-17 |
 | UNOPS careers | 2026-10-17 |
 | UNICEF · construction | 2026-10-17 |
 | My link 1 | 2026-10-17 |
