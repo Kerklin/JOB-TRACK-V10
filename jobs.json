@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-17T1"
+    "muted": "2026-10-18T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-17T1"
+    "muted": "2026-10-18T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-17",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-17",
+    "last_ok": "2026-10-18",
     "muted": ""
    },
    "My link 1": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-17",
+  "maint": "2026-10-18",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -230,7 +230,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-18"
   },
   {
    "title": "WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro",
@@ -461,7 +461,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "WASH Supervisor - Tyre, Tyre, Lebanon",
@@ -802,7 +802,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-13"
+   "checked": "2026-10-18"
   },
   {
    "title": "Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum",
@@ -813,7 +813,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing, San Jose, California, United States",
@@ -824,7 +824,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Senior Manufacturing Engineer, San Jose, California, United States",
@@ -835,7 +835,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -865,10 +865,10 @@
    "link": "https://unjobs.org/vacancies/1791109150945",
    "deadline": "",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-14"
+   "status": "removed",
+   "checked": "2026-10-18"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -887,10 +887,10 @@
    "link": "https://unjobs.org/vacancies/1790951875279",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-18)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-10-14"
+   "status": "removed",
+   "checked": "2026-10-18"
   },
   {
    "title": "Infrastructure Project Manager, Port Moresby, Papua New Guinea",
@@ -901,7 +901,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -912,7 +912,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Programme Management Specialist – UN-Habitat Syria",
@@ -945,7 +945,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "ETC Construction Coordinator (5 positions)",
@@ -956,7 +956,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -989,7 +989,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)",
@@ -1011,7 +1011,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Program Director for Europe",
@@ -1022,7 +1022,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-14"
+   "checked": "2026-10-18"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
