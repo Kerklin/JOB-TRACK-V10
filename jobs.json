@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-10-18T3"
+    "muted": "2026-10-19T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-10-18T3"
+    "muted": "2026-10-19T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-18",
+  "maint": "2026-10-19",
   "vcheck": "2026-10-13",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -241,7 +241,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Senior Project Engineer – Solar & BESS, Brisbane, CA, United States",
@@ -252,7 +252,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "NBC Urban Designer - International Consultant, Beirut, Lebanon",
@@ -263,7 +263,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo",
@@ -274,7 +274,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo",
@@ -285,7 +285,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja, Aru, Democratic Republic Of Congo",
@@ -296,7 +296,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Shelter and Settlement Officer, Nyirol, South Sudan",
@@ -307,7 +307,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "WASH Officer, Uror, Jonglei State, South Sudan",
@@ -318,7 +318,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
@@ -384,7 +384,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan",
@@ -395,7 +395,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
@@ -406,7 +406,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
@@ -417,7 +417,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "National Building Code Adviser - STA",
@@ -428,7 +428,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-12",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -1030,10 +1030,10 @@
    "link": "https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402",
    "deadline": "2026-10-16",
    "fit": "Medium",
-   "note": "EU work permit needed",
+   "note": "Posting removed (checked 2026-10-19)",
    "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-10-15"
+   "status": "removed",
+   "checked": "2026-10-19"
   },
   {
    "title": "Consultant – Field Engineer (STRONG)",
@@ -1088,7 +1088,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-19"
   },
   {
    "title": "Resident Engineer (BiH Tunnels)",
