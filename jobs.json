@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-18T2"
+    "muted": "2026-10-19T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-18T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-18",
+    "last_ok": "2026-10-19",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,50 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Consultant Field Engineer READY (two positions), Majuro",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792440024693",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
+  {
+   "title": "Project Coordinator",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792432836633",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
+  {
+   "title": "Shelter & WASH Technical Officer Ukraine Shostka, Kyiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792429248532",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (16 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
+  {
+   "title": "Consultant: Field Engineer (READY), Pohnpei",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792368028760",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-19",
+   "status": "open",
+   "checked": "2026-10-19"
+  },
   {
    "title": "Housing, Land and Property Advisor",
    "info": "via unvacancies · UNOPS",

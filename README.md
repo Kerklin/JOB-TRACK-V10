@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**71 open jobs** (🟢 24 · 🟡 35 · ⚪ 12) · updated 2026-10-19 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**75 open jobs** (🟢 26 · 🟡 37 · ⚪ 12) · updated 2026-10-19 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -13,6 +13,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 11 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 11 days | 🟢 High | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 56 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Consultant Field Engineer READY (two positions), Majuro](https://unjobs.org/vacancies/1792440024693) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
+| [Shelter & WASH Technical Officer Ukraine Shostka, Kyiv](https://unjobs.org/vacancies/1792429248532) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (16 points) |
 | [Structural Engineer](https://unjobs.org/vacancies/1792411235453) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792396939881) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
 | [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
@@ -37,6 +39,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) | via UNICEF · construction | 2026-10-22 | 🔴 3 days | 🟡 Medium | Found automatically (8 points) |
 | [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | 11 days | 🟡 Medium | Deadline from listing – confirm |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 19 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [Project Coordinator](https://unjobs.org/vacancies/1792432836633) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
+| [Consultant: Field Engineer (READY), Pohnpei](https://unjobs.org/vacancies/1792368028760) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Project Engineer](https://unjobs.org/vacancies/1792411231706) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Engineering Assistant, Bidibidi, Rhino Camp, Uganda](https://unjobs.org/vacancies/1792213286219) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
 | [National Project Officer – Construction Engineer, Beirut](https://unjobs.org/vacancies/1792396826266) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
@@ -152,15 +156,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-18 |
+| unvacancies · engineering | 2026-10-19 |
 | unvacancies · UNOPS | 2026-10-19 |
 | unvacancies · UN-Habitat | 2026-10-19 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-18 |
-| UNjobs · construction | 2026-10-18 |
+| UNjobs · construction | 2026-10-19 |
 | UNjobs · infrastructure projects | 2026-10-19 |
 | UNOPS careers | 2026-10-19 |
 | UNICEF · construction | 2026-10-18 |
-| My link 1 | 2026-10-18 |
+| My link 1 | 2026-10-19 |
 | My link 2 | not yet |
 
 </details>
