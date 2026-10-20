@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-20T0"
+    "muted": "2026-10-20T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design, Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792476080480",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20"
+  },
+  {
+   "title": "MSDI - Management Services Assistant (Facilities) G5, Rome",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792472477228",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20"
+  },
+  {
+   "title": "100000001233.Facilities Coordinator, Doha",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792472450068",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-20",
+   "status": "open",
+   "checked": "2026-10-20"
+  },
   {
    "title": "Consultant Field Engineer READY (two positions), Majuro",
    "info": "via UNjobs · construction",
