@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-19T3"
+    "muted": "2026-10-20T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-18T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-19",
+    "last_ok": "2026-10-20",
     "muted": ""
    },
    "My link 2": {
@@ -71,8 +71,8 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-19",
-  "vcheck": "2026-10-13",
+  "maint": "2026-10-20",
+  "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
@@ -230,7 +230,7 @@
    "note": "Found automatically (20 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -241,7 +241,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
@@ -252,7 +252,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15",
@@ -263,7 +263,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "AI Engineer Consultant",
@@ -274,7 +274,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
@@ -285,7 +285,7 @@
    "note": "Found automatically (17 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh",
@@ -296,7 +296,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -307,7 +307,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-16"
+   "checked": "2026-10-20"
   },
   {
    "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
@@ -1209,7 +1209,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-20"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -1220,7 +1220,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-20"
   },
   {
    "title": "Junior Housing and Urban Development Analyst",
@@ -1231,7 +1231,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-20"
   },
   {
    "title": "Housing Policy Analysis and Reporting Specialist",
@@ -1275,7 +1275,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-20"
   },
   {
    "title": "Project Officer (Displacement Management)",
@@ -1286,7 +1286,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-20"
   },
   {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
@@ -1319,7 +1319,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-20"
   },
   {
    "title": "Director, Europe Sustainable Infrastructure, Energy",
@@ -1330,7 +1330,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-15"
+   "checked": "2026-10-20"
   },
   {
    "title": "Procurement Advisor",
