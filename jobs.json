@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-21T2"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-21T2"
+    "muted": "2026-10-22T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-21",
+    "last_ok": "2026-10-22",
     "muted": ""
    },
    "UNOPS careers": {
@@ -67,17 +67,61 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-10-21T2"
+    "muted": "2026-10-22T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-21",
+  "maint": "2026-10-22",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Technical Expert for District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792620375334",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
+  {
+   "title": "Senior Expert for Water Utilities and District Heating (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792620310528",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
+  {
+   "title": "Vodokanal Cell Lead (WASH), Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792620308394",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
+  {
+   "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1792620224351",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-22",
+   "status": "open",
+   "checked": "2026-10-22"
+  },
   {
    "title": "Joint Project Coordinator [Open to internal and external applicants], Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
@@ -263,7 +307,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-22"
   },
   {
    "title": "Mobile Test Site Project Manager, Esparto, United States",
@@ -274,7 +318,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-22"
   },
   {
    "title": "Civil Engineer/Architect – BiH",
@@ -392,10 +436,10 @@
    "link": "https://unjobs.org/vacancies/1792083873447",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-22)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-18"
+   "status": "removed",
+   "checked": "2026-10-22"
   },
   {
    "title": "WASH Technical Assistant CAR Kaga Bandoro, Kaga-Bandoro",
@@ -527,7 +571,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-13",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-22"
   },
   {
    "title": "Manager, Facilities Transportation, Alamo",
@@ -612,10 +656,10 @@
    "link": "https://unjobs.org/vacancies/1791602788994",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-22)",
    "found": "2026-10-10",
-   "status": "open",
-   "checked": "2026-10-17"
+   "status": "removed",
+   "checked": "2026-10-22"
   },
   {
    "title": "MNCAH Data Engineering Consultant",
@@ -626,7 +670,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "WASH Supervisor - Tyre, Tyre, Lebanon",
@@ -865,10 +909,10 @@
    "link": "https://unjobs.org/vacancies/1791352893661",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-22)",
    "found": "2026-10-07",
-   "status": "open",
-   "checked": "2026-10-17"
+   "status": "removed",
+   "checked": "2026-10-22"
   },
   {
    "title": "Engineer, Dodoma, Tanzania",
@@ -879,7 +923,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-22"
   },
   {
    "title": "Construction Engineer",
@@ -901,7 +945,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-22"
   },
   {
    "title": "Senior Drupal Infrastructure Engineer",
@@ -912,7 +956,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-22"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
@@ -923,7 +967,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-22"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -934,7 +978,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-17"
+   "checked": "2026-10-22"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -967,7 +1011,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum",
@@ -978,7 +1022,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing, San Jose, California, United States",
@@ -989,7 +1033,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-18"
+   "checked": "2026-10-22"
   },
   {
    "title": "Senior Manufacturing Engineer, San Jose, California, United States",
