@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**83 open jobs** (🟢 27 · 🟡 48 · ⚪ 8) · updated 2026-10-24 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**84 open jobs** (🟢 28 · 🟡 48 · ⚪ 8) · updated 2026-10-24 · checks every 5 minutes · sources working today: 6 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -11,6 +11,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 🔴 6 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 🔴 6 days | 🟢 High | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 51 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1792861242574) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (10 points) |
 | [Structural Engineer](https://unjobs.org/vacancies/1792771336977) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://unjobs.org/vacancies/1792688457349) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1792670558695) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (13 points) |
@@ -187,11 +188,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-23 |
 | unvacancies · UNOPS | 2026-10-24 |
 | unvacancies · UN-Habitat | 2026-10-24 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-23 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-24 |
 | UNjobs · construction | 2026-10-23 |
 | UNjobs · infrastructure projects | 2026-10-24 |
 | UNOPS careers | 2026-10-24 |
-| UNICEF · construction | 2026-10-23 |
+| UNICEF · construction | 2026-10-24 |
 | My link 1 | 2026-10-23 |
 | My link 2 | not yet |
 
