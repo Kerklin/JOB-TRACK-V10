@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-25T3"
+    "muted": "2026-10-26T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-25T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-25",
+    "last_ok": "2026-10-26",
     "muted": ""
    },
    "My link 2": {
@@ -71,13 +71,35 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-25",
+  "maint": "2026-10-26",
   "vcheck": "2026-10-20",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Assistant Architect Design, E",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771324547",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-10-26",
+   "status": "open",
+   "checked": "2026-10-26"
+  },
+  {
+   "title": "Measurement, Cost And Contracts Engineer, Amman",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1792771354211",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-26",
+   "status": "open",
+   "checked": "2026-10-26"
+  },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
    "info": "via UNjobs · construction",
@@ -384,7 +406,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Aleppo, Syria",
@@ -395,7 +417,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Assistant Architect Design, Amman",
@@ -549,7 +571,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Senior Project Manager (Infrastructure) – GEDSI, Climate & DRR",
@@ -799,10 +821,10 @@
    "link": "https://unjobs.org/vacancies/1791900091937",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-10-26)",
    "found": "2026-10-13",
-   "status": "open",
-   "checked": "2026-10-21"
+   "status": "removed",
+   "checked": "2026-10-26"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -934,7 +956,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Shelter Coordinator South Sudan Ulang, Juba",
@@ -945,7 +967,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Shelter Officer South Sudan Ulang, Juba",
@@ -956,7 +978,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Wash & Shelter Officer CAR Bouar",
@@ -978,7 +1000,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -997,10 +1019,10 @@
    "link": "https://unjobs.org/vacancies/1791522065800",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-26)",
    "found": "2026-10-09",
-   "status": "open",
-   "checked": "2026-10-21"
+   "status": "removed",
+   "checked": "2026-10-26"
   },
   {
    "title": "100000000240.Facilities Coordination Officer, Doha",
@@ -1033,7 +1055,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-10-21"
+   "checked": "2026-10-26"
   },
   {
    "title": "Construction Engineer",
@@ -1583,7 +1605,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20"
+   "checked": "2026-10-26"
   },
   {
    "title": "Housing Policy Analysis and Reporting Specialist",
@@ -1627,7 +1649,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20"
+   "checked": "2026-10-26"
   },
   {
    "title": "Project Officer (Displacement Management)",
@@ -1638,7 +1660,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20"
+   "checked": "2026-10-26"
   },
   {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
@@ -1671,7 +1693,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20"
+   "checked": "2026-10-26"
   },
   {
    "title": "Director, Europe Sustainable Infrastructure, Energy",
@@ -1682,7 +1704,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-20"
+   "checked": "2026-10-26"
   },
   {
    "title": "Procurement Advisor",
