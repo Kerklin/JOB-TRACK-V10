@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**87 open jobs** (🟢 28 · 🟡 49 · ⚪ 10) · updated 2026-10-26 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**89 open jobs** (🟢 30 · 🟡 49 · ⚪ 10) · updated 2026-10-26 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -11,6 +11,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 🔴 4 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 🔴 4 days | 🟢 High | Deadline from listing – confirm |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 49 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo](https://unjobs.org/vacancies/1793030445542) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (17 points) |
+| [CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo](https://unjobs.org/vacancies/1793030444841) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (17 points) |
 | [Assistant Architect Design, E](https://unjobs.org/vacancies/1792771324547) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
 | [Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1792861242574) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (10 points) |
 | [Structural Engineer](https://unjobs.org/vacancies/1792771336977) | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
