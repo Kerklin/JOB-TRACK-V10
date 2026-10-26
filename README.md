@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**89 open jobs** (🟢 30 · 🟡 49 · ⚪ 10) · updated 2026-10-26 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**90 open jobs** (🟢 31 · 🟡 49 · ⚪ 10) · updated 2026-10-26 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -10,6 +10,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 |---|---|---|---|---|---|
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | 🔴 4 days | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
 | [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | 🔴 4 days | 🟢 High | Deadline from listing – confirm |
+| [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) 🆕 | via UNICEF · construction | 2026-11-08 | 13 days | 🟢 High | Found automatically (12 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 49 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo](https://unjobs.org/vacancies/1793030445542) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (17 points) |
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo](https://unjobs.org/vacancies/1793030444841) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (17 points) |
@@ -196,11 +197,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-10-26 |
 | unvacancies · UNOPS | 2026-10-26 |
 | unvacancies · UN-Habitat | 2026-10-25 |
-| UNjobs · Bosnia and Herzegovina | 2026-10-25 |
+| UNjobs · Bosnia and Herzegovina | 2026-10-26 |
 | UNjobs · construction | 2026-10-26 |
 | UNjobs · infrastructure projects | 2026-10-26 |
 | UNOPS careers | 2026-10-25 |
-| UNICEF · construction | 2026-10-25 |
+| UNICEF · construction | 2026-10-26 |
 | My link 1 | 2026-10-26 |
 | My link 2 | not yet |
 
