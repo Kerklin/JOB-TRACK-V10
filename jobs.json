@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-27T0"
+    "muted": "2026-10-27T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-27T0"
+    "muted": "2026-10-27T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -67,7 +67,7 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-10-27T0"
+    "muted": "2026-10-27T3"
    }
   },
   "since": "2026-10-06",
@@ -78,6 +78,17 @@
   ]
  },
  "jobs": [
+  {
+   "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793047576164",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-27",
+   "status": "open",
+   "checked": "2026-10-27"
+  },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
    "info": "via unvacancies · engineering",

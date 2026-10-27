@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**92 open jobs** (🟢 30 · 🟡 50 · ⚪ 12) · updated 2026-10-27 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**93 open jobs** (🟢 30 · 🟡 51 · ⚪ 12) · updated 2026-10-27 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -42,6 +42,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | 9 days | 🟡 Medium | Found automatically (9 points) |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 10 days | 🟡 Medium | Found automatically (6 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 11 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [WASH & Rehabilitation Officer (Roster), Hassakah, Syria](https://unjobs.org/vacancies/1793047576164) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Construction and Engineer, Program Design Specialist, Washington](https://unjobs.org/vacancies/1793049615470) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [WASH & Rehabilitation Officer (Roster) - Hama, Hama, Syria](https://unjobs.org/vacancies/1793047561787) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793006873516) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
