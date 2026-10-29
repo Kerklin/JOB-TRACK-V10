@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-28T3"
+    "muted": "2026-10-29T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-28T3"
+    "muted": "2026-10-29T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-27",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-28",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "My link 1": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-28",
+  "maint": "2026-10-29",
   "vcheck": "2026-10-27",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -337,10 +337,10 @@
    "link": "https://unjobs.org/vacancies/1792771336977",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Construction Management Engineer, Kabul",
@@ -351,7 +351,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
@@ -359,10 +359,10 @@
    "link": "https://unjobs.org/vacancies/1792732082714",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific, Suva",
@@ -373,7 +373,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Project Manager, Global Housing Hub",
@@ -384,7 +384,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
@@ -615,7 +615,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Project Coordinator",
@@ -623,10 +623,10 @@
    "link": "https://unjobs.org/vacancies/1792432836633",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Shelter & WASH Technical Officer Ukraine Shostka, Kyiv",
@@ -637,7 +637,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -648,7 +648,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Housing, Land and Property Advisor",
@@ -659,7 +659,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Structural Engineer",
@@ -667,10 +667,10 @@
    "link": "https://unjobs.org/vacancies/1792411235453",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Project Engineer",
@@ -678,10 +678,10 @@
    "link": "https://unjobs.org/vacancies/1792411231706",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-10-29)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-10-23"
+   "status": "removed",
+   "checked": "2026-10-29"
   },
   {
    "title": "Engineering Assistant, Bidibidi, Rhino Camp, Uganda",
@@ -1473,7 +1473,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -1539,7 +1539,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -1550,7 +1550,7 @@
    "note": "Apply first. Arabic desirable only. Hardship E, non-family",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-29"
   },
   {
    "title": "Programme Management Specialist – UN-Habitat Syria",
