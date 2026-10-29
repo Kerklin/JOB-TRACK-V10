@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-27T1"
+    "muted": "2026-10-29T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-29T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-27",
+    "last_ok": "2026-10-29",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,94 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Infrastructure Field Engineer (Consultant)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797",
+   "deadline": "2026-11-12",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568",
+   "deadline": "2026-11-11",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Infrastructure Field Engineer (Consultant), Mykolaiv",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793282444060",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (19 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Solar Installation Quality Assurance Engineer, Kampala",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793268102302",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793268102618",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793181721552",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Housing Economist, Montreal",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793167466760",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
+  {
+   "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793163739608",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-29",
+   "status": "open",
+   "checked": "2026-10-29"
+  },
   {
    "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
    "info": "via UNjobs · Bosnia and Herzegovina",
