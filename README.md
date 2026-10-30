@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**91 open jobs** (🟢 29 · 🟡 52 · ⚪ 10) · updated 2026-10-30 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**92 open jobs** (🟢 29 · 🟡 53 · ⚪ 10) · updated 2026-10-30 · checks every 5 minutes · sources working today: 9 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -41,6 +41,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | 🔴 6 days | 🟡 Medium | Found automatically (9 points) |
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 🔴 7 days | 🟡 Medium | Found automatically (6 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 8 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) 🆕 | via unvacancies · UN-Habitat | 2026-11-08 | 9 days | 🟡 Medium | Found automatically (6 points) |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) 🆕 | via unvacancies · engineering | 2026-11-12 | 13 days | 🟡 Medium | Found automatically (7 points) |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793347308700) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1793347304476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
@@ -218,11 +219,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-10-30 |
 | unvacancies · UNOPS | 2026-10-30 |
-| unvacancies · UN-Habitat | 2026-10-28 |
+| unvacancies · UN-Habitat | 2026-10-30 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-30 |
 | UNjobs · construction | 2026-10-30 |
 | UNjobs · infrastructure projects | 2026-10-30 |
-| UNOPS careers | 2026-10-28 |
+| UNOPS careers | 2026-10-30 |
 | UNICEF · construction | 2026-10-30 |
 | My link 1 | 2026-10-30 |
 | My link 2 | not yet |
