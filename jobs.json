@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-29T3"
+    "muted": "2026-10-30T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-29T3"
+    "muted": "2026-10-30T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-29",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "My link 1": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-29",
+  "maint": "2026-10-30",
   "vcheck": "2026-10-27",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -384,7 +384,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -392,10 +392,10 @@
    "link": "https://unjobs.org/vacancies/1792808752982",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Senior Infrastructure Specialist, Manila, Philippines",
@@ -406,7 +406,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-24",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Project Engineer",
@@ -780,7 +780,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -802,7 +802,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "ICT Project Manager",
@@ -978,7 +978,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-30"
   },
   {
    "title": "NBC Urban Designer - International Consultant, Beirut, Lebanon",
@@ -986,10 +986,10 @@
    "link": "https://unjobs.org/vacancies/1792065675186",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Assistant(e) SWI (Shelter, WaSH and Infrastructure), Aru, Mahagi, Democratic Republic Of Congo",
@@ -997,10 +997,10 @@
    "link": "https://unjobs.org/vacancies/1791867668525",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Chargé(e) SWI (Shelter, WaSH and Infrastructure), Adja/Aru, Democratic Republic Of Congo",
@@ -1008,10 +1008,10 @@
    "link": "https://unjobs.org/vacancies/1791867670024",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Chef(fe) d’Equipe SWI (Shelter, WaSH and Infrastructures), Adja, Aru, Democratic Republic Of Congo",
@@ -1019,10 +1019,10 @@
    "link": "https://unjobs.org/vacancies/1791867671241",
    "deadline": "",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-10-30)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-30"
   },
   {
    "title": "Shelter and Settlement Officer, Nyirol, South Sudan",
@@ -1671,7 +1671,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-30"
   },
   {
    "title": "ETC Construction Coordinator (5 positions)",
@@ -1682,7 +1682,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-30"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -1715,7 +1715,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-30"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)",
@@ -1737,7 +1737,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-30"
   },
   {
    "title": "Program Director for Europe",
@@ -1748,7 +1748,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-23"
+   "checked": "2026-10-30"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
