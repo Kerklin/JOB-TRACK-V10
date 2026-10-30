@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**87 open jobs** (🟢 29 · 🟡 48 · ⚪ 10) · updated 2026-10-30 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**91 open jobs** (🟢 29 · 🟡 52 · ⚪ 10) · updated 2026-10-30 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -42,6 +42,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 🔴 7 days | 🟡 Medium | Found automatically (6 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 8 days | 🟡 Medium | Stretch: urban planning/finance focus |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) 🆕 | via unvacancies · engineering | 2026-11-12 | 13 days | 🟡 Medium | Found automatically (7 points) |
+| [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793347308700) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [WASH Specialist](https://unjobs.org/vacancies/1793347304476) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Project Officer Senior - WASH, Port-au-Prince](https://unjobs.org/vacancies/1793336484540) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
+| [WASH & Infrastructure Coordinator, Khartoum](https://unjobs.org/vacancies/1793336476812) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Solar Installation Quality Assurance Engineer, Kampala](https://unjobs.org/vacancies/1793268102302) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793268102618) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Supply Chain Construction Manager, Bunia, Democratic Republic of Congo](https://unjobs.org/vacancies/1793163739608) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
@@ -212,15 +216,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-10-29 |
+| unvacancies · engineering | 2026-10-30 |
 | unvacancies · UNOPS | 2026-10-30 |
 | unvacancies · UN-Habitat | 2026-10-28 |
 | UNjobs · Bosnia and Herzegovina | 2026-10-30 |
-| UNjobs · construction | 2026-10-29 |
+| UNjobs · construction | 2026-10-30 |
 | UNjobs · infrastructure projects | 2026-10-30 |
 | UNOPS careers | 2026-10-28 |
 | UNICEF · construction | 2026-10-30 |
-| My link 1 | 2026-10-29 |
+| My link 1 | 2026-10-30 |
 | My link 2 | not yet |
 
 </details>

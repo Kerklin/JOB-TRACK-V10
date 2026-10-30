@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-29T2"
+    "muted": "2026-10-30T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-30T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-29",
+    "last_ok": "2026-10-30",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,50 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793347308700",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30"
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793347304476",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30"
+  },
+  {
+   "title": "Project Officer Senior - WASH, Port-au-Prince",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793336484540",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30"
+  },
+  {
+   "title": "WASH & Infrastructure Coordinator, Khartoum",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793336476812",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-30",
+   "status": "open",
+   "checked": "2026-10-30"
+  },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
    "info": "via unvacancies · engineering",
