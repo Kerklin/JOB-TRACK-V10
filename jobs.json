@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-30T1"
+    "muted": "2026-10-31T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-10-30T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-30",
+    "last_ok": "2026-10-31",
     "muted": ""
    },
    "My link 2": {
@@ -71,13 +71,57 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-30",
+  "maint": "2026-10-31",
   "vcheck": "2026-10-27",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, occupied Palestinian territory",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793364911687",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
+  {
+   "title": "Cryptography Evaluator Engineer, Redu, Belgium",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793365709954",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
+  {
+   "title": "Civil Engineer (1 position), Libya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793365860777",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
+  {
+   "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793379654367",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-10-31",
+   "status": "open",
+   "checked": "2026-10-31"
+  },
   {
    "title": "Informal Settlements Urban Planning Senior Consultant",
    "info": "via unvacancies · UN-Habitat",
@@ -406,7 +450,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-10-31"
   },
   {
    "title": "Technical Program Manager, Facilities, South San Francisco, United States",
@@ -417,7 +461,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-10-31"
   },
   {
    "title": "Director, Housing and Resilience Programs, Washington, United States",
@@ -428,7 +472,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-10-31"
   },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -722,10 +766,10 @@
    "link": "https://unjobs.org/vacancies/1792476080480",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-20",
-   "status": "open",
-   "checked": "2026-10-25"
+   "status": "removed",
+   "checked": "2026-10-31"
   },
   {
    "title": "MSDI - Management Services Assistant (Facilities) G5, Rome",
@@ -736,7 +780,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-10-31"
   },
   {
    "title": "100000001233.Facilities Coordinator, Doha",
@@ -747,7 +791,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-20",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-10-31"
   },
   {
    "title": "Consultant Field Engineer READY (two positions), Majuro",
@@ -901,7 +945,7 @@
    "note": "Found automatically (20 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-10-31"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -912,7 +956,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-10-31"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
@@ -920,10 +964,10 @@
    "link": "https://unjobs.org/vacancies/1792087264868",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-25"
+   "status": "removed",
+   "checked": "2026-10-31"
   },
   {
    "title": "Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15",
@@ -931,10 +975,10 @@
    "link": "https://unjobs.org/vacancies/1792087267794",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-25"
+   "status": "removed",
+   "checked": "2026-10-31"
   },
   {
    "title": "AI Engineer Consultant",
@@ -1088,7 +1132,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-31"
   },
   {
    "title": "WASH Officer, Uror, Jonglei State, South Sudan",
@@ -1099,7 +1143,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-10-24"
+   "checked": "2026-10-31"
   },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
@@ -1173,10 +1217,10 @@
    "link": "https://unjobs.org/vacancies/1791805833982",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-12",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-31"
   },
   {
    "title": "Construction Management Engineer, Kalemie, Democratic Republic of Congo",
@@ -1184,10 +1228,10 @@
    "link": "https://unjobs.org/vacancies/1791805949717",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-12",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-31"
   },
   {
    "title": "Construction Management Associate Engineer, Bukavu, Democratic Republic of Congo",
@@ -1195,10 +1239,10 @@
    "link": "https://unjobs.org/vacancies/1791806017218",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-10-31)",
    "found": "2026-10-12",
-   "status": "open",
-   "checked": "2026-10-24"
+   "status": "removed",
+   "checked": "2026-10-31"
   },
   {
    "title": "National Building Code Adviser - STA",
