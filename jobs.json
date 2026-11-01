@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-10-31T0"
+    "muted": "2026-11-01T2"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-01T1"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,61 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924",
+   "deadline": "2026-11-14",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01"
+  },
+  {
+   "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422858335",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01"
+  },
+  {
+   "title": "Shelter Technical Assistant, Misrata, Libya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422874630",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793419279266",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01"
+  },
+  {
+   "title": "141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793422887438",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-01",
+   "status": "open",
+   "checked": "2026-11-01"
+  },
   {
    "title": "Construction Management Senior Associate Engineer",
    "info": "via UNjobs · infrastructure projects",
