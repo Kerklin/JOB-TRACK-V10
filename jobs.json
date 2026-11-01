@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-10-31T3"
+    "muted": "2026-11-01T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-10-31T3"
+    "muted": "2026-11-01T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-10-31",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-01",
     "muted": ""
    },
    "My link 1": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-10-31",
+  "maint": "2026-11-01",
   "vcheck": "2026-10-27",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -406,7 +406,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund, Sarajevo",
@@ -417,7 +417,7 @@
    "note": "Found automatically (17 points)",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund, Sarajevo",
@@ -428,7 +428,7 @@
    "note": "Found automatically (17 points)",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Project Manager-Port Development, Walvis-Bay, Namibia",
@@ -439,7 +439,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Assistant Architect Design, E",
@@ -450,7 +450,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-26",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer, Amman",
@@ -458,10 +458,10 @@
    "link": "https://unjobs.org/vacancies/1792771354211",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-26",
-   "status": "open",
-   "checked": "2026-10-26"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "Assistant Architect Design (Architectural Modeling & 3D Visualization), E",
@@ -769,7 +769,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Aleppo, Syria",
@@ -780,7 +780,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-10-26"
+   "checked": "2026-11-01"
   },
   {
    "title": "Assistant Architect Design, Amman",
@@ -1011,7 +1011,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
@@ -1019,10 +1019,10 @@
    "link": "https://unjobs.org/vacancies/1792144906524",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (17 points)",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-25"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh",
@@ -1030,10 +1030,10 @@
    "link": "https://unjobs.org/vacancies/1792126888233",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-16",
-   "status": "open",
-   "checked": "2026-10-25"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -1272,10 +1272,10 @@
    "link": "https://unjobs.org/vacancies/1791781328274",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-01)",
    "found": "2026-10-12",
-   "status": "open",
-   "checked": "2026-10-25"
+   "status": "removed",
+   "checked": "2026-11-01"
   },
   {
    "title": "Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh",
@@ -1935,7 +1935,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "title": "Resident Engineer (BiH Tunnels)",
@@ -1946,7 +1946,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -1957,7 +1957,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-10-25"
+   "checked": "2026-11-01"
   },
   {
    "title": "Junior Housing and Urban Development Analyst",
