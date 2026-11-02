@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-01T2"
+    "muted": "2026-11-02T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-01T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-02",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793534475645",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-02",
+   "status": "open",
+   "checked": "2026-11-02"
+  },
+  {
+   "title": "Climate-Resilient Health Care Facilities, Cairo",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793577725467",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-02",
+   "status": "open",
+   "checked": "2026-11-02"
+  },
+  {
+   "title": "WASH Specialist, Kakuma, Kenya",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1793577717715",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-02",
+   "status": "open",
+   "checked": "2026-11-02"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · engineering",
