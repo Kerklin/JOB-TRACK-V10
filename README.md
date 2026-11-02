@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**90 open jobs** (🟢 27 · 🟡 53 · ⚪ 10) · updated 2026-11-02 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**92 open jobs** (🟢 28 · 🟡 54 · ⚪ 10) · updated 2026-11-02 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -15,6 +15,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 9 days | 🟢 High | Found automatically (12 points) |
 | [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) 🆕 | via UNICEF · construction | 2026-11-12 | 10 days | 🟢 High | Found automatically (16 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 42 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://unjobs.org/vacancies/1793638868271) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (17 points) |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
 | [WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine](https://unjobs.org/vacancies/1793422858335) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (15 points) |
 | [Shelter Technical Assistant, Misrata, Libya](https://unjobs.org/vacancies/1793422874630) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
@@ -41,6 +42,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) | via unvacancies · UN-Habitat | 2026-11-08 | 🔴 6 days | 🟡 Medium | Found automatically (6 points) |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 10 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) 🆕 | via unvacancies · engineering | 2026-11-14 | 12 days | 🟡 Medium | Found automatically (7 points) |
+| [Restoration Forester, Private Lands (VA), Marion , United States](https://unjobs.org/vacancies/1793632323051) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [WASH Specialist, Kakuma, Kenya](https://unjobs.org/vacancies/1793577717715) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887438) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
