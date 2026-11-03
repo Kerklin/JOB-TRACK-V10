@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-10-31T2"
+    "muted": "2026-11-03T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-10-31T2"
+    "muted": "2026-11-03T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-10-31",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "UNOPS careers": {
@@ -67,17 +67,28 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-10-31T2"
+    "muted": "2026-11-03T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-02",
-  "vcheck": "2026-10-27",
+  "maint": "2026-11-03",
+  "vcheck": "2026-11-03",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793621020902",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03"
+  },
   {
    "title": "Restoration Forester, Private Lands (VA), Marion , United States",
    "info": "via UNjobs · construction",
@@ -406,7 +417,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-10-28"
+   "checked": "2026-11-03"
   },
   {
    "title": "Linear Infrastructure Ecologist, United States",
@@ -472,7 +483,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Resident Engineer, Dhusamareb, Somalia",
@@ -480,10 +491,10 @@
    "link": "https://unjobs.org/vacancies/1793049721853",
    "deadline": "2026-10-28",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-11-03)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-10-27"
+   "status": "removed",
+   "checked": "2026-11-03"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster) - Hama, Hama, Syria",
@@ -494,7 +505,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -502,10 +513,10 @@
    "link": "https://unjobs.org/vacancies/1793006873516",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-03)",
    "found": "2026-10-27",
-   "status": "open",
-   "checked": "2026-10-27"
+   "status": "removed",
+   "checked": "2026-11-03"
   },
   {
    "title": "Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563",
@@ -714,7 +725,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)",
@@ -725,7 +736,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -755,10 +766,10 @@
    "link": "https://unjobs.org/vacancies/1792670561009",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-03)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-27"
+   "status": "removed",
+   "checked": "2026-11-03"
   },
   {
    "title": "Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo",
@@ -766,10 +777,10 @@
    "link": "https://unjobs.org/vacancies/1792670558695",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-11-03)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-27"
+   "status": "removed",
+   "checked": "2026-11-03"
   },
   {
    "title": "Project Manager (Infrastructure), Nuwakot, Rasuwa, Nepal",
@@ -780,7 +791,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Officier WASH, Muyinga, Burundi",
@@ -788,10 +799,10 @@
    "link": "https://unjobs.org/vacancies/1792645386124",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-03)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-10-27"
+   "status": "removed",
+   "checked": "2026-11-03"
   },
   {
    "title": "WASH Specialist",
@@ -813,7 +824,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
@@ -824,7 +835,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -1616,7 +1627,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "Foundry Technical Engineering Lead",
@@ -1627,7 +1638,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-10-27"
+   "checked": "2026-11-03"
   },
   {
    "title": "WatHab Generalist Project Manager, Myanmar",
