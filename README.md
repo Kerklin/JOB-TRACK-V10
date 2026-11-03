@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**92 open jobs** (🟢 29 · 🟡 53 · ⚪ 10) · updated 2026-11-03 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**100 open jobs** (🟢 29 · 🟡 60 · ⚪ 11) · updated 2026-11-03 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -44,6 +44,13 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956) 🆕 | via UNICEF · construction | 2026-11-09 | 🔴 6 days | 🟡 Medium | Found automatically (7 points) |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 9 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) 🆕 | via unvacancies · engineering | 2026-11-14 | 11 days | 🟡 Medium | Found automatically (7 points) |
+| [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) 🆕 | via unvacancies · engineering | 2026-11-17 | 14 days | 🟡 Medium | Found automatically (8 points) |
+| [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793728935490) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [WASH Specialist](https://unjobs.org/vacancies/1793728932248) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://unjobs.org/vacancies/1793725269609) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Mechanical Engineer](https://unjobs.org/vacancies/1793714480168) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Mechanical Engineer, Homs, Syria](https://unjobs.org/vacancies/1793714480525) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793621020902) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Restoration Forester, Private Lands (VA), Marion , United States](https://unjobs.org/vacancies/1793632323051) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
@@ -90,6 +97,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Program Director for Europe](https://habitat.wd12.myworkdayjobs.com/External/job/Bratislava-Slovakia/Program-Director-for-Europe_JR103615-1) | Habitat for Humanity · Bratislava | – | check | 🟡 Medium | Stretch role |
 | [Consultant – Field Engineer (STRONG)](https://unjobs.org/skills/infrastructure-projects) | IOM · Banjul, The Gambia | – | check | 🟡 Medium | Check deadline |
 | [WASH & Shelter Coordinator](https://unjobs.org/skills/construction) | Save the Children · Field | – | check | 🟡 Medium | Verify it's still open |
+| [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) 🆕 | via unvacancies · engineering | 2026-11-17 | 14 days | ⚪ Low | Found automatically (5 points) |
 | [Housing Economist, Montreal](https://unjobs.org/vacancies/1793167466760) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Engineering and Shelter Team Leader, Bidibidi, Uganda](https://unjobs.org/vacancies/1793077258711) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Technical Program Manager, Facilities, South San Francisco, United States](https://unjobs.org/vacancies/1792808720722) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
@@ -237,15 +245,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-11-02 |
+| unvacancies · engineering | 2026-11-03 |
 | unvacancies · UNOPS | 2026-11-03 |
 | unvacancies · UN-Habitat | 2026-11-02 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-03 |
-| UNjobs · construction | 2026-11-02 |
+| UNjobs · construction | 2026-11-03 |
 | UNjobs · infrastructure projects | 2026-11-03 |
 | UNOPS careers | 2026-11-02 |
 | UNICEF · construction | 2026-11-03 |
-| My link 1 | 2026-11-02 |
+| My link 1 | 2026-11-03 |
 | My link 2 | not yet |
 
 </details>
