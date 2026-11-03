@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**89 open jobs** (🟢 27 · 🟡 52 · ⚪ 10) · updated 2026-11-03 · checks every 5 minutes · sources working today: 2 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**92 open jobs** (🟢 29 · 🟡 53 · ⚪ 10) · updated 2026-11-03 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -12,8 +12,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) | via unvacancies · engineering | 2026-11-08 | 🔴 5 days | 🟢 High | Found automatically (10 points) |
 | [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | 🔴 5 days | 🟢 High | Found automatically (10 points) |
 | [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) | via UNICEF · construction | 2026-11-08 | 🔴 5 days | 🟢 High | Found automatically (12 points) |
+| [Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783](https://jobs.unicef.org/en-us/job/596783/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-only596783) 🆕 | via UNICEF · construction | 2026-11-10 | 🔴 7 days | 🟢 High | Found automatically (21 points) |
 | [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 8 days | 🟢 High | Found automatically (12 points) |
 | [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) | via UNICEF · construction | 2026-11-12 | 9 days | 🟢 High | Found automatically (16 points) |
+| [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) 🆕 | via UNICEF · construction | 2026-11-17 | 14 days | 🟢 High | Found automatically (13 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 41 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://unjobs.org/vacancies/1793638868271) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (17 points) |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
@@ -39,6 +41,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | 🔴 3 days | 🟡 Medium | Found automatically (6 points) |
 | [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | 🔴 4 days | 🟡 Medium | Stretch: urban planning/finance focus |
 | [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) | via unvacancies · UN-Habitat | 2026-11-08 | 🔴 5 days | 🟡 Medium | Found automatically (6 points) |
+| [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956) 🆕 | via UNICEF · construction | 2026-11-09 | 🔴 6 days | 🟡 Medium | Found automatically (7 points) |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 9 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) 🆕 | via unvacancies · engineering | 2026-11-14 | 11 days | 🟡 Medium | Found automatically (7 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793621020902) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
@@ -237,11 +240,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-11-02 |
 | unvacancies · UNOPS | 2026-11-03 |
 | unvacancies · UN-Habitat | 2026-11-02 |
-| UNjobs · Bosnia and Herzegovina | 2026-11-01 |
+| UNjobs · Bosnia and Herzegovina | 2026-11-03 |
 | UNjobs · construction | 2026-11-02 |
 | UNjobs · infrastructure projects | 2026-11-03 |
 | UNOPS careers | 2026-11-02 |
-| UNICEF · construction | 2026-11-01 |
+| UNICEF · construction | 2026-11-03 |
 | My link 1 | 2026-11-02 |
 | My link 2 | not yet |
 

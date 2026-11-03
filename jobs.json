@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-01T3"
+    "muted": "2026-11-03T2"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
-    "muted": "2026-11-01T3"
+    "muted": "2026-11-03T2"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-02",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -58,7 +58,7 @@
     "muted": ""
    },
    "UNICEF · construction": {
-    "last_ok": "2026-11-01",
+    "last_ok": "2026-11-03",
     "muted": ""
    },
    "My link 1": {
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip",
+   "deadline": "2026-11-17",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03"
+  },
+  {
+   "title": "Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596783/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-only596783",
+   "deadline": "2026-11-10",
+   "fit": "High",
+   "note": "Found automatically (21 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03"
+  },
+  {
+   "title": "WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956",
+   "info": "via UNICEF · construction",
+   "link": "https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956",
+   "deadline": "2026-11-09",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-03",
+   "status": "open",
+   "checked": "2026-11-03"
+  },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
    "info": "via UNjobs · infrastructure projects",
