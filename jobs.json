@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-04T0"
+    "muted": "2026-11-04T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-04T0"
+    "muted": "2026-11-04T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -67,7 +67,7 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-11-04T0"
+    "muted": "2026-11-04T2"
    }
   },
   "since": "2026-10-06",
@@ -78,6 +78,50 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Project Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793793647139",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04"
+  },
+  {
+   "title": "Capacity Building Specialist (Media and Communication), Home-based, Remote",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793721671195",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04"
+  },
+  {
+   "title": "Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793721671577",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04"
+  },
+  {
+   "title": "(Senior) Investment Officer, Infrastructure Europe, Paris",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1793768476651",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-04",
+   "status": "open",
+   "checked": "2026-11-04"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · UNOPS",

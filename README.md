@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**102 open jobs** (🟢 29 · 🟡 62 · ⚪ 11) · updated 2026-11-04 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**106 open jobs** (🟢 29 · 🟡 65 · ⚪ 12) · updated 2026-11-04 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -46,6 +46,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 10 days | 🟡 Medium | Found automatically (7 points) |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) 🆕 | via unvacancies · engineering | 2026-11-17 | 13 days | 🟡 Medium | Found automatically (8 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) 🆕 | via unvacancies · UNOPS | 2026-11-25 | 21 days | 🟡 Medium | Found automatically (7 points) |
+| [Project Engineer](https://unjobs.org/vacancies/1793793647139) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Capacity Building Specialist (Media and Communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671195) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
+| [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
 | [WASH Consultant, Windhoek, Namibia (Office-based + Possible In-country Travel), 6 months, National Candidates Only, #596782](https://unjobs.org/vacancies/1793725260704) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793728935490) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1793728932248) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
@@ -100,6 +103,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Consultant – Field Engineer (STRONG)](https://unjobs.org/skills/infrastructure-projects) | IOM · Banjul, The Gambia | – | check | 🟡 Medium | Check deadline |
 | [WASH & Shelter Coordinator](https://unjobs.org/skills/construction) | Save the Children · Field | – | check | 🟡 Medium | Verify it's still open |
 | [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) 🆕 | via unvacancies · engineering | 2026-11-17 | 13 days | ⚪ Low | Found automatically (5 points) |
+| [(Senior) Investment Officer, Infrastructure Europe, Paris](https://unjobs.org/vacancies/1793768476651) 🆕 | via UNjobs · infrastructure projects | – | check | ⚪ Low | Found automatically (5 points) |
 | [Housing Economist, Montreal](https://unjobs.org/vacancies/1793167466760) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Engineering and Shelter Team Leader, Bidibidi, Uganda](https://unjobs.org/vacancies/1793077258711) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Technical Program Manager, Facilities, South San Francisco, United States](https://unjobs.org/vacancies/1792808720722) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
