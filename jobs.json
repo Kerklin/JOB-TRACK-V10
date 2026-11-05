@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-04T1"
+    "muted": "2026-11-05T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-04T1"
+    "muted": "2026-11-05T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,8 +38,8 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-02",
-    "muted": "2026-11-04T1"
+    "last_ok": "2026-11-05",
+    "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
     "last_ok": "2026-11-03",
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-04",
+    "last_ok": "2026-11-05",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-04",
+  "maint": "2026-11-05",
   "vcheck": "2026-11-03",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -546,10 +546,10 @@
    "link": "https://unjobs.org/vacancies/1793268102302",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-10-29"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "Climate-Resilient Health Care Facilities, Cairo",
@@ -557,10 +557,10 @@
    "link": "https://unjobs.org/vacancies/1793268102618",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-10-29"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision), Kabul",
@@ -571,7 +571,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Housing Economist, Montreal",
@@ -582,7 +582,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
@@ -593,7 +593,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
@@ -868,7 +868,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
@@ -890,7 +890,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Project Manager, Global Housing Hub",
@@ -901,7 +901,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
@@ -1132,7 +1132,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Project Coordinator",
@@ -1154,7 +1154,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -1165,7 +1165,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Housing, Land and Property Advisor",
@@ -1176,7 +1176,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Structural Engineer",
@@ -1990,7 +1990,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -2056,7 +2056,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-10-29"
+   "checked": "2026-11-05"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -2064,10 +2064,10 @@
    "link": "https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692",
    "deadline": "2026-10-30",
    "fit": "High",
-   "note": "Apply first. Arabic desirable only. Hardship E, non-family",
+   "note": "Posting removed (checked 2026-11-05)",
    "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-10-29"
+   "status": "removed",
+   "checked": "2026-11-05"
   },
   {
    "title": "Programme Management Specialist – UN-Habitat Syria",
