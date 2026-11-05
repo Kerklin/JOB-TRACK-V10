@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**105 open jobs** (🟢 30 · 🟡 63 · ⚪ 12) · updated 2026-11-05 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**109 open jobs** (🟢 30 · 🟡 66 · ⚪ 13) · updated 2026-11-05 · checks every 5 minutes · sources working today: 6 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -46,7 +46,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 7 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 9 days | 🟡 Medium | Found automatically (7 points) |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) 🆕 | via unvacancies · engineering | 2026-11-17 | 12 days | 🟡 Medium | Found automatically (8 points) |
+| [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) 🆕 | via UNjobs · infrastructure projects | 2026-11-19 | 14 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) 🆕 | via unvacancies · UNOPS | 2026-11-25 | 20 days | 🟡 Medium | Found automatically (7 points) |
+| [Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia](https://unjobs.org/vacancies/1793845782259) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
+| [Civil Engineer, Bishkek](https://unjobs.org/vacancies/1793887285422) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Project Engineer](https://unjobs.org/vacancies/1793793647139) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Capacity Building Specialist (Media and Communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671195) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote](https://unjobs.org/vacancies/1793721671577) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
@@ -101,6 +104,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Program Director for Europe](https://habitat.wd12.myworkdayjobs.com/External/job/Bratislava-Slovakia/Program-Director-for-Europe_JR103615-1) | Habitat for Humanity · Bratislava | – | check | 🟡 Medium | Stretch role |
 | [Consultant – Field Engineer (STRONG)](https://unjobs.org/skills/infrastructure-projects) | IOM · Banjul, The Gambia | – | check | 🟡 Medium | Check deadline |
 | [WASH & Shelter Coordinator](https://unjobs.org/skills/construction) | Save the Children · Field | – | check | 🟡 Medium | Verify it's still open |
+| [Salesforce Marketing Cloud Architect](https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107) 🆕 | via unvacancies · UNOPS | 2026-11-12 | 🔴 7 days | ⚪ Low | Found automatically (5 points) |
 | [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) 🆕 | via unvacancies · engineering | 2026-11-17 | 12 days | ⚪ Low | Found automatically (5 points) |
 | [(Senior) Investment Officer, Infrastructure Europe, Paris](https://unjobs.org/vacancies/1793768476651) 🆕 | via UNjobs · infrastructure projects | – | check | ⚪ Low | Found automatically (5 points) |
 | [Housing Economist, Montreal](https://unjobs.org/vacancies/1793167466760) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
@@ -253,11 +257,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-11-03 |
-| unvacancies · UNOPS | 2026-11-04 |
+| unvacancies · UNOPS | 2026-11-05 |
 | unvacancies · UN-Habitat | 2026-11-05 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-05 |
 | UNjobs · construction | 2026-11-03 |
-| UNjobs · infrastructure projects | 2026-11-04 |
+| UNjobs · infrastructure projects | 2026-11-05 |
 | UNOPS careers | 2026-11-05 |
 | UNICEF · construction | 2026-11-05 |
 | My link 1 | 2026-11-03 |
