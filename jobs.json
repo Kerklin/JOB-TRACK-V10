@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-03T3"
+    "muted": "2026-11-06T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-06T0"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-11-03",
+    "last_ok": "2026-11-06",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,17 @@
   ]
  },
  "jobs": [
+  {
+   "title": "CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-06",
+   "status": "open",
+   "checked": "2026-11-06"
+  },
   {
    "title": "Salesforce Marketing Cloud Architect",
    "info": "via unvacancies · UNOPS",

@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**103 open jobs** (🟢 30 · 🟡 60 · ⚪ 13) · updated 2026-11-06 · checks every 5 minutes · sources working today: 2 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**104 open jobs** (🟢 30 · 🟡 61 · ⚪ 13) · updated 2026-11-06 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -45,6 +45,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 6 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 8 days | 🟡 Medium | Found automatically (7 points) |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 11 days | 🟡 Medium | Found automatically (8 points) |
+| [CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management](https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490) 🆕 | via unvacancies · engineering | 2026-11-19 | 13 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) 🆕 | via UNjobs · infrastructure projects | 2026-11-19 | 13 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) 🆕 | via unvacancies · UNOPS | 2026-11-25 | 19 days | 🟡 Medium | Found automatically (7 points) |
 | [Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia](https://unjobs.org/vacancies/1793845782259) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
@@ -256,15 +257,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-11-03 |
+| unvacancies · engineering | 2026-11-06 |
 | unvacancies · UNOPS | 2026-11-05 |
 | unvacancies · UN-Habitat | 2026-11-05 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-06 |
-| UNjobs · construction | 2026-11-03 |
+| UNjobs · construction | 2026-11-06 |
 | UNjobs · infrastructure projects | 2026-11-05 |
 | UNOPS careers | 2026-11-05 |
 | UNICEF · construction | 2026-11-06 |
-| My link 1 | 2026-11-03 |
+| My link 1 | 2026-11-06 |
 | My link 2 | not yet |
 
 </details>
