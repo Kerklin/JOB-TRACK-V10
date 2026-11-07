@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-06T2"
+    "muted": "2026-11-07T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-06T2"
+    "muted": "2026-11-07T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-06",
+    "last_ok": "2026-11-07",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-06",
+  "maint": "2026-11-07",
   "vcheck": "2026-11-03",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -461,7 +461,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
@@ -472,7 +472,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, occupied Palestinian territory",
@@ -483,7 +483,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Cryptography Evaluator Engineer, Redu, Belgium",
@@ -494,7 +494,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Civil Engineer (1 position), Libya",
@@ -502,10 +502,10 @@
    "link": "https://unjobs.org/vacancies/1793365860777",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (15 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705",
@@ -516,7 +516,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-31",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Informal Settlements Urban Planning Senior Consultant",
@@ -843,10 +843,10 @@
    "link": "https://unjobs.org/vacancies/1792771308767",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-25",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "Technical Program Manager, Facilities, South San Francisco, United States",
@@ -857,7 +857,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Director, Housing and Resilience Programs, Washington, United States",
@@ -868,7 +868,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -1173,10 +1173,10 @@
    "link": "https://unjobs.org/vacancies/1792472477228",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-20",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "100000001233.Facilities Coordinator, Doha",
@@ -1184,10 +1184,10 @@
    "link": "https://unjobs.org/vacancies/1792472450068",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-20",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "Consultant Field Engineer READY (two positions), Majuro",
@@ -1341,7 +1341,7 @@
    "note": "Found automatically (20 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -1352,7 +1352,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-10-31"
+   "checked": "2026-11-07"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
@@ -1525,10 +1525,10 @@
    "link": "https://unjobs.org/vacancies/1791910842362",
    "deadline": "",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "WASH Officer, Uror, Jonglei State, South Sudan",
@@ -1536,10 +1536,10 @@
    "link": "https://unjobs.org/vacancies/1791910843244",
    "deadline": "",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-11-07)",
    "found": "2026-10-15",
-   "status": "open",
-   "checked": "2026-10-31"
+   "status": "removed",
+   "checked": "2026-11-07"
   },
   {
    "title": "Wash & Shelter Technical Assistant, Bouar, Central African Republic",
