@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**89 open jobs** (🟢 25 · 🟡 53 · ⚪ 11) · updated 2026-11-09 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**97 open jobs** (🟢 28 · 🟡 58 · ⚪ 11) · updated 2026-11-09 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -14,6 +14,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels) 🆕 | via UNICEF · construction | 2026-11-15 | 🔴 6 days | 🟢 High | Found automatically (16 points) |
 | [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) | via UNICEF · construction | 2026-11-17 | 8 days | 🟢 High | Found automatically (13 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 35 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Biomedical Engineer](https://unjobs.org/vacancies/1794225678460) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
+| [Construction Management Lead Engineer, Tashkent](https://unjobs.org/vacancies/1794225678882) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
+| [Construction Management Senior Associate Engineer, Tashkent](https://unjobs.org/vacancies/1794225679083) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1793854878525) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (10 points) |
 | [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://unjobs.org/vacancies/1793638868271) | via UNjobs · construction | – | check | 🟢 High | Found automatically (17 points) |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
@@ -36,11 +39,16 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956) | via UNICEF · construction | 2026-11-09 | 🔴 0 days | 🟡 Medium | Found automatically (7 points) |
 | [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 3 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 🔴 5 days | 🟡 Medium | Found automatically (7 points) |
+| [Construction Management Lead Engineer](https://unvacancies.org/jobs/construction-management-lead-engineer-OPS-4948) 🆕 | via unvacancies · UNOPS | 2026-11-16 | 🔴 7 days | 🟡 Medium | Found automatically (6 points) |
 | [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 8 days | 🟡 Medium | Found automatically (8 points) |
 | [CRFM-Flood Protection and Water Resources Engineering Expert](https://unvacancies.org/jobs/crfm-flood-protection-and-water-resources-engineering-expert-IC-51514) 🆕 | via unvacancies · engineering | 2026-11-19 | 10 days | 🟡 Medium | Found automatically (6 points) |
 | [CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management](https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490) | via unvacancies · engineering | 2026-11-19 | 10 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) | via UNjobs · infrastructure projects | 2026-11-19 | 10 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 16 days | 🟡 Medium | Found automatically (7 points) |
+| [ENGINEER, P3](https://unjobs.org/vacancies/1794247249726) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Mechanical Engineer](https://unjobs.org/vacancies/1794232891034) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1794225250834) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
+| [Quality Control Engineer, Tashkent](https://unjobs.org/vacancies/1794225680751) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Chief of Trust-Building Section, Sarajevo](https://unjobs.org/vacancies/1794027671576) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1794051611532) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia](https://unjobs.org/vacancies/1793845782259) | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
@@ -262,11 +270,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
 | unvacancies · engineering | 2026-11-09 |
-| unvacancies · UNOPS | 2026-11-08 |
+| unvacancies · UNOPS | 2026-11-09 |
 | unvacancies · UN-Habitat | 2026-11-09 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-08 |
 | UNjobs · construction | 2026-11-09 |
-| UNjobs · infrastructure projects | 2026-11-08 |
+| UNjobs · infrastructure projects | 2026-11-09 |
 | UNOPS careers | 2026-11-09 |
 | UNICEF · construction | 2026-11-08 |
 | My link 1 | 2026-11-09 |
