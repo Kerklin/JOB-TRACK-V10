@@ -2,21 +2,18 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**95 open jobs** (🟢 28 · 🟡 56 · ⚪ 11) · updated 2026-11-08 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**89 open jobs** (🟢 25 · 🟡 53 · ⚪ 11) · updated 2026-11-09 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
-| [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) | via unvacancies · engineering | 2026-11-08 | 🔴 0 days | 🟢 High | Found automatically (10 points) |
-| [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | 🔴 0 days | 🟢 High | Found automatically (10 points) |
-| [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) | via UNICEF · construction | 2026-11-08 | 🔴 0 days | 🟢 High | Found automatically (12 points) |
-| [Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783](https://jobs.unicef.org/en-us/job/596783/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-only596783) | via UNICEF · construction | 2026-11-10 | 🔴 2 days | 🟢 High | Found automatically (21 points) |
-| [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 🔴 3 days | 🟢 High | Found automatically (12 points) |
-| [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) | via UNICEF · construction | 2026-11-12 | 🔴 4 days | 🟢 High | Found automatically (16 points) |
-| [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels) 🆕 | via UNICEF · construction | 2026-11-15 | 🔴 7 days | 🟢 High | Found automatically (16 points) |
-| [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) | via UNICEF · construction | 2026-11-17 | 9 days | 🟢 High | Found automatically (13 points) |
-| [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 36 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783](https://jobs.unicef.org/en-us/job/596783/field-engineer-consultant-hyderabad-pakistan-education-14-months-office-based-with-travel-nationals-only596783) | via UNICEF · construction | 2026-11-10 | 🔴 1 days | 🟢 High | Found automatically (21 points) |
+| [Civil Engineer (Project Management and Construction Supervision)](https://unvacancies.org/jobs/civil-engineer-project-management-and-construction-supervision-21273568) | via unvacancies · engineering | 2026-11-11 | 🔴 2 days | 🟢 High | Found automatically (12 points) |
+| [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://jobs.unicef.org/en-us/job/596705/wash-solar-construction-consultant-majuro-marshall-islands-12-months-officebased-with-travel-open-for-international-candidates-only-req596705) | via UNICEF · construction | 2026-11-12 | 🔴 3 days | 🟢 High | Found automatically (16 points) |
+| [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels) 🆕 | via UNICEF · construction | 2026-11-15 | 🔴 6 days | 🟢 High | Found automatically (16 points) |
+| [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) | via UNICEF · construction | 2026-11-17 | 8 days | 🟢 High | Found automatically (13 points) |
+| [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 35 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1793854878525) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (10 points) |
 | [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://unjobs.org/vacancies/1793638868271) | via UNjobs · construction | – | check | 🟢 High | Found automatically (17 points) |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1793534475645) | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
@@ -36,14 +33,14 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum](https://unjobs.org/vacancies/1791262902457) | via UNjobs · construction | – | check | 🟢 High | Found automatically (19 points) |
 | [Architect / Civil Engineer – Building in Existing Buildings (Req 3412)](https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN) | STRABAG · Austria | – | check | 🟢 High | Check deadline + work permit |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)](https://unjobs.org/skills/infrastructure-projects) | Danish Refugee Council · Beirut | – | check | 🟢 High | Check deadline |
-| [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) | via unvacancies · UN-Habitat | 2026-11-08 | 🔴 0 days | 🟡 Medium | Found automatically (6 points) |
-| [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956) | via UNICEF · construction | 2026-11-09 | 🔴 1 days | 🟡 Medium | Found automatically (7 points) |
-| [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 4 days | 🟡 Medium | Found automatically (7 points) |
-| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 🔴 6 days | 🟡 Medium | Found automatically (7 points) |
-| [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 9 days | 🟡 Medium | Found automatically (8 points) |
-| [CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management](https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490) 🆕 | via unvacancies · engineering | 2026-11-19 | 11 days | 🟡 Medium | Found automatically (6 points) |
-| [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) | via UNjobs · infrastructure projects | 2026-11-19 | 11 days | 🟡 Medium | Found automatically (7 points) |
-| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 17 days | 🟡 Medium | Found automatically (7 points) |
+| [WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956](https://jobs.unicef.org/en-us/job/596738/wash-officer-no2-temporary-appointment-6-months-kharkiv-ukraine-post00138956) | via UNICEF · construction | 2026-11-09 | 🔴 0 days | 🟡 Medium | Found automatically (7 points) |
+| [Infrastructure Field Engineer (Consultant)](https://unvacancies.org/jobs/infrastructure-field-engineer-consultant-OM-23797) | via unvacancies · engineering | 2026-11-12 | 🔴 3 days | 🟡 Medium | Found automatically (7 points) |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4924) | via unvacancies · engineering | 2026-11-14 | 🔴 5 days | 🟡 Medium | Found automatically (7 points) |
+| [INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip](https://unvacancies.org/jobs/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multi-count-F-596790) | via unvacancies · engineering | 2026-11-17 | 8 days | 🟡 Medium | Found automatically (8 points) |
+| [CRFM-Flood Protection and Water Resources Engineering Expert](https://unvacancies.org/jobs/crfm-flood-protection-and-water-resources-engineering-expert-IC-51514) 🆕 | via unvacancies · engineering | 2026-11-19 | 10 days | 🟡 Medium | Found automatically (6 points) |
+| [CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management](https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490) | via unvacancies · engineering | 2026-11-19 | 10 days | 🟡 Medium | Found automatically (6 points) |
+| [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) | via UNjobs · infrastructure projects | 2026-11-19 | 10 days | 🟡 Medium | Found automatically (7 points) |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 16 days | 🟡 Medium | Found automatically (7 points) |
 | [Chief of Trust-Building Section, Sarajevo](https://unjobs.org/vacancies/1794027671576) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1794051611532) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia](https://unjobs.org/vacancies/1793845782259) | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
@@ -60,8 +57,6 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo](https://unjobs.org/vacancies/1793714480909) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793621020902) | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Restoration Forester, Private Lands (VA), Marion , United States](https://unjobs.org/vacancies/1793632323051) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
-| [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
-| [WASH Specialist, Kakuma, Kenya](https://unjobs.org/vacancies/1793577717715) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo](https://unjobs.org/vacancies/1793422887438) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Cryptography Evaluator Engineer, Redu, Belgium](https://unjobs.org/vacancies/1793365709954) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [WASH & Solar Construction Consultant, Majuro, Marshall Islands, 12 Months, OfficeBased with travel (Open for International Candidates Only) Req#596705](https://unjobs.org/vacancies/1793379654367) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
@@ -80,7 +75,6 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Technical Advisor I-Shelter & Settlements RAPID, United States](https://unjobs.org/vacancies/1792558903984) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [WASH & Rehabilitation Officer (Roster), Aleppo, Syria](https://unjobs.org/vacancies/1789738262027) | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (9 points) |
 | [Consultant: Field Engineer (READY), Pohnpei](https://unjobs.org/vacancies/1792368028760) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
-| [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure) – GEDSI, Climate & DRR](https://unjobs.org/vacancies/1792126888214) | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Mobile Test Site Project Manager, Esparto, United States](https://unjobs.org/vacancies/1792191044913) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Engineer – Solar & BESS, Brisbane, CA, United States](https://unjobs.org/vacancies/1792029648292) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
@@ -92,8 +86,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Program Director for Europe](https://habitat.wd12.myworkdayjobs.com/External/job/Bratislava-Slovakia/Program-Director-for-Europe_JR103615-1) | Habitat for Humanity · Bratislava | – | check | 🟡 Medium | Stretch role |
 | [Consultant – Field Engineer (STRONG)](https://unjobs.org/skills/infrastructure-projects) | IOM · Banjul, The Gambia | – | check | 🟡 Medium | Check deadline |
 | [WASH & Shelter Coordinator](https://unjobs.org/skills/construction) | Save the Children · Field | – | check | 🟡 Medium | Verify it's still open |
-| [Salesforce Marketing Cloud Architect](https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107) | via unvacancies · UNOPS | 2026-11-12 | 🔴 4 days | ⚪ Low | Found automatically (5 points) |
-| [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) | via unvacancies · engineering | 2026-11-17 | 9 days | ⚪ Low | Found automatically (5 points) |
+| [Salesforce Marketing Cloud Architect](https://unvacancies.org/jobs/salesforce-marketing-cloud-architect-OPS-5107) | via unvacancies · UNOPS | 2026-11-12 | 🔴 3 days | ⚪ Low | Found automatically (5 points) |
+| [(Senior) Investment Officer, Infrastructure Europe](https://unvacancies.org/jobs/senior-investment-officer-infrastructure-europe-WB-39273) | via unvacancies · engineering | 2026-11-17 | 8 days | ⚪ Low | Found automatically (5 points) |
 | [(Senior) Investment Officer, Infrastructure Europe, Paris](https://unjobs.org/vacancies/1793768476651) | via UNjobs · infrastructure projects | – | check | ⚪ Low | Found automatically (5 points) |
 | [Housing Economist, Montreal](https://unjobs.org/vacancies/1793167466760) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Engineering and Shelter Team Leader, Bidibidi, Uganda](https://unjobs.org/vacancies/1793077258711) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
@@ -104,18 +98,24 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Resident Engineer (BiH Tunnels)](https://ba.linkedin.com/jobs/view/resident-engineer-bih-tunnels-at-hill-international-inc-3971174262) | Hill International · Bosnia and Herzegovina | – | check | ⚪ Low | Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com |
 | [Director, Europe Sustainable Infrastructure, Energy](https://www.impactpool.org/jobs/c/jobs-at-ebrd) | EBRD · Warsaw / Kyiv / Belgrade / London | – | check | ⚪ Low | Very senior banking role |
 
-<details><summary>Closed or removed (124)</summary>
+<details><summary>Closed or removed (131)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
-| [Construction Management Senior Associate Engineer](https://unjobs.org/vacancies/1793419279543) | via UNjobs · infrastructure projects | 2026-11-06 | -2 days | 🟢 High | Found automatically (10 points) |
+| [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793577725467) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-09) |
+| [WASH Specialist, Kakuma, Kenya](https://unjobs.org/vacancies/1793577717715) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-09) |
+| [Construction Management Senior Associate Engineer](https://unjobs.org/vacancies/1793419279543) | via UNjobs · infrastructure projects | 2026-11-06 | -3 days | 🟢 High | Found automatically (10 points) |
 | [Civil Engineer (1 position), Libya](https://unjobs.org/vacancies/1793365860777) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-11-07) |
+| [Informal Settlements Urban Planning Senior Consultant](https://unvacancies.org/jobs/informal-settlements-urban-planning-senior-consultant-t-287263) | via unvacancies · UN-Habitat | 2026-11-08 | -1 days | 🟡 Medium | Found automatically (6 points) |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793347308700) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-06) |
 | [WASH Specialist](https://unjobs.org/vacancies/1793347304476) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-06) |
 | [Solar Installation Quality Assurance Engineer, Kampala](https://unjobs.org/vacancies/1793268102302) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-05) |
 | [Climate-Resilient Health Care Facilities, Cairo](https://unjobs.org/vacancies/1793268102618) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-05) |
+| [CfA 23-10/26 Field Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-23-10-26-field-engineer-solidarity-fund-OM-23794) | via unvacancies · engineering | 2026-11-08 | -1 days | 🟢 High | Found automatically (10 points) |
+| [CfA 22-10/26 Senior Engineer, Solidarity Fund](https://unvacancies.org/jobs/cfa-22-10-26-senior-engineer-solidarity-fund-OM-23791) | via unvacancies · engineering | 2026-11-08 | -1 days | 🟢 High | Found automatically (10 points) |
 | [Resident Engineer, Dhusamareb, Somalia](https://unjobs.org/vacancies/1793049721853) | via UNjobs · construction | 2026-10-28 | removed | ⚪ Low | Posting removed (checked 2026-11-03) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1793006873516) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-11-03) |
+| [Consultant State Engineer, Enugu, Nigeria (Office-based & travel), 7 months, National consultants only, #596563](https://jobs.unicef.org/en-us/job/596563/consultant-state-engineer-enugu-nigeria-officebased-travel-7-months-national-consultants-only-596563) | via UNICEF · construction | 2026-11-08 | -1 days | 🟢 High | Found automatically (12 points) |
 | [Project Manager-Port Development, Walvis-Bay, Namibia](https://unjobs.org/vacancies/1792816421069) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-11-08) |
 | [Assistant Architect Design, E](https://unjobs.org/vacancies/1792771324547) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-11-08) |
 | [Measurement, Cost And Contracts Engineer, Amman](https://unjobs.org/vacancies/1792771354211) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-01) |
@@ -125,8 +125,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Project Engineer](https://unjobs.org/vacancies/1792771338232) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-10-28) |
 | [Structural Engineer](https://unjobs.org/vacancies/1792771336977) | via UNjobs · infrastructure projects | – | removed | 🟢 High | Posting removed (checked 2026-10-29) |
 | [SENIOR FACILITIES MANAGEMENT ASSISTANT, G7](https://unjobs.org/vacancies/1792732082714) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-29) |
-| [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | -2 days | 🟡 Medium | Found automatically (6 points) |
-| [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | -3 days | 🟡 Medium | Found automatically (9 points) |
+| [Project Manager, Global Housing Hub](https://unvacancies.org/jobs/project-manager-global-housing-hub-t-286598) | via unvacancies · UN-Habitat | 2026-11-06 | -3 days | 🟡 Medium | Found automatically (6 points) |
+| [Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)](https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months) | via UNICEF · construction | 2026-11-05 | -4 days | 🟡 Medium | Found automatically (9 points) |
 | [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://unjobs.org/vacancies/1792688457349) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-10-27) |
 | [Project Engineering Analyst (Open to Tier 1 & Tier 2 Applicants), Islamabad](https://unjobs.org/vacancies/1792677657283) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-27) |
 | [WASH Specialist](https://unjobs.org/vacancies/1792670561009) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-03) |
@@ -142,17 +142,18 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [MSDI - Management Services Assistant (Facilities) G5, Rome](https://unjobs.org/vacancies/1792472477228) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-07) |
 | [100000001233.Facilities Coordinator, Doha](https://unjobs.org/vacancies/1792472450068) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-07) |
 | [Project Coordinator](https://unjobs.org/vacancies/1792432836633) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-29) |
-| [Housing, Land and Property Advisor](https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799) | via unvacancies · UNOPS | 2026-10-22 | -17 days | 🟢 High | Found automatically (12 points) |
+| [Housing, Land and Property Advisor](https://unvacancies.org/jobs/housing-land-and-property-hlp-advisor-OPS-4799) | via unvacancies · UNOPS | 2026-10-22 | -18 days | 🟢 High | Found automatically (12 points) |
 | [Structural Engineer](https://unjobs.org/vacancies/1792411235453) | via UNjobs · infrastructure projects | – | removed | 🟢 High | Posting removed (checked 2026-10-29) |
 | [Project Engineer](https://unjobs.org/vacancies/1792411231706) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-10-29) |
 | [Engineering Assistant, Bidibidi, Rhino Camp, Uganda](https://unjobs.org/vacancies/1792213286219) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-11-06) |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792396939881) | via UNjobs · infrastructure projects | – | removed | 🟢 High | Posting removed (checked 2026-10-24) |
 | [National Project Officer – Construction Engineer, Beirut](https://unjobs.org/vacancies/1792396826266) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-11-06) |
-| [Civil Engineer/Architect – BiH](https://unvacancies.org/jobs/civil-engineer-architect-open-to-internal-and-external-applicants-DP-37528) | via unvacancies · engineering | 2026-10-23 | -16 days | 🟢 High | Found automatically (20 points) |
-| [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) | via unvacancies · engineering | 2026-10-28 | -11 days | ⚪ Low | Found automatically (5 points) |
+| [ICT Project Manager](https://unjobs.org/vacancies/1792166486232) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-11-09) |
+| [Civil Engineer/Architect – BiH](https://unvacancies.org/jobs/civil-engineer-architect-open-to-internal-and-external-applicants-DP-37528) | via unvacancies · engineering | 2026-10-23 | -17 days | 🟢 High | Found automatically (20 points) |
+| [Technical Engineer Consultant](https://unvacancies.org/jobs/technical-engineer-consultant-chisinau-moldova-8-months-remote-F-596343) | via unvacancies · engineering | 2026-10-28 | -12 days | ⚪ Low | Found automatically (5 points) |
 | [Measurement, Cost And Contracts Engineer (for internal candidates only), 14](https://unjobs.org/vacancies/1792087264868) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-31) |
 | [Field Office Engineer-For Internal Candidates- Fixed term- ICIP- FO West Bank-Grade, 15](https://unjobs.org/vacancies/1792087267794) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-10-31) |
-| [AI Engineer Consultant](https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363) | via unvacancies · engineering | 2026-10-19 | -20 days | ⚪ Low | Found automatically (5 points) |
+| [AI Engineer Consultant](https://unvacancies.org/jobs/mid-level-artificial-intelligence-engineer-A-286363) | via unvacancies · engineering | 2026-10-19 | -21 days | ⚪ Low | Found automatically (5 points) |
 | [Civil Engineer/Architect \[Open to internal and external applicants\], Sarajevo](https://unjobs.org/vacancies/1792144906524) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-11-01) |
 | [CCCM Officer (Technical Engineer), Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1792126888233) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-11-01) |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1792101963327) | via UNjobs · infrastructure projects | – | removed | 🟢 High | Posting removed (checked 2026-10-25) |
@@ -169,7 +170,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Wash & Shelter Technical Assistant, Bouar, Central African Republic](https://unjobs.org/vacancies/1791910843659) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-21) |
 | [Project Manager - Infrastructure (Integrated Solid Waste Management), Colombo](https://unjobs.org/vacancies/1791900091937) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-10-26) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791882791098) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-10-17) |
-| [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) | via UNICEF · construction | 2026-10-22 | -17 days | 🟡 Medium | Found automatically (8 points) |
+| [Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal](https://jobs.unicef.org/en-us/job/596270/technical-support-for-wash-in-schools-and-systems-strengthening-madhesh-province-national-office-based-with-travel-6-months-janakpur-nepal) | via UNICEF · construction | 2026-10-22 | -18 days | 🟡 Medium | Found automatically (8 points) |
 | [Manager, Facilities Transportation, Alamo](https://unjobs.org/vacancies/1791644019637) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-15) |
 | [Education Infrastructure Engineer, Damascus](https://unjobs.org/vacancies/1791813713952) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-10-24) |
 | [Environmental Engineering Specialist (Hazardous Waste Management), Dushanbe, Tajikistan](https://unjobs.org/vacancies/1791805833982) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-31) |
@@ -178,12 +179,12 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [National Building Code Adviser - STA](https://unjobs.org/vacancies/1791781328274) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-01) |
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791602789331) | via UNjobs · infrastructure projects | – | removed | 🟢 High | Posting removed (checked 2026-10-17) |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut](https://unjobs.org/vacancies/1791602788994) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-10-22) |
-| [MNCAH Data Engineering Consultant](https://unvacancies.org/jobs/mncah-data-engineering-consultant-unicef-office-of-strategy-and-evidence-integrated-health-data-anal-F-596115) | via unvacancies · engineering | 2026-10-18 | -21 days | 🟢 High | Found automatically (11 points) |
+| [MNCAH Data Engineering Consultant](https://unvacancies.org/jobs/mncah-data-engineering-consultant-unicef-office-of-strategy-and-evidence-integrated-health-data-anal-F-596115) | via unvacancies · engineering | 2026-10-18 | -22 days | 🟢 High | Found automatically (11 points) |
 | [WASH Supervisor - Tyre, Tyre, Lebanon](https://unjobs.org/vacancies/1791556268009) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-11-02) |
 | [Shelter Coordinator South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246881) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-11-02) |
 | [Shelter Officer South Sudan Ulang, Juba](https://unjobs.org/vacancies/1791565246494) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-11-02) |
 | [Wash & Shelter Officer CAR Bouar](https://unjobs.org/vacancies/1791565245476) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-21) |
-| [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa) | via UNICEF · construction | 2026-10-18 | -21 days | 🟢 High | Found automatically (13 points) |
+| [Batch recruitment of 2 position: Construction Officer, NO-2, Temporary Appointment position, Ukraine (Kharkiv, Odesa)](https://jobs.unicef.org/en-us/job/596177/batch-recruitment-of-2-position-construction-officer-no2-temporary-appointment-position-ukraine-kharkiv-odesa) | via UNICEF · construction | 2026-10-18 | -22 days | 🟢 High | Found automatically (13 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1791464823412) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-10-12) |
 | [Facility Engineer (Civil) - NOA, Aden, Yemen](https://unjobs.org/vacancies/1791522065800) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-26) |
 | [100000000240.Facilities Coordination Officer, Doha](https://unjobs.org/vacancies/1791522050560) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-16) |
@@ -195,16 +196,16 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Shelter and Settlement Team Leader, Cox's Bazar, Bangladesh](https://unjobs.org/vacancies/1791394751777) | via UNjobs · infrastructure projects | – | removed | 🟢 High | Posting removed (checked 2026-10-17) |
 | [Technical Expert for District Heating (WASH), Kyiv](https://unjobs.org/vacancies/1791374669552) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-10-09) |
 | [Director, Sustainable Infrastructure Portfolio and Implementation](https://unjobs.org/vacancies/1791373293624) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-10-16) |
-| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | -19 days | ⚪ Low | Found automatically (5 points) |
-| [Foundry Technical Engineering Lead](https://unvacancies.org/jobs/foundry-technical-engineering-lead-68556004) | via unvacancies · engineering | 2026-10-15 | -24 days | 🟢 High | Found automatically (10 points) |
+| [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates](https://unvacancies.org/jobs/site-engineer-limited-duration-contract-ldc-area-office-nablus-for-internal-external-candidates-grad-A-285925) | via unvacancies · engineering | 2026-10-20 | -20 days | ⚪ Low | Found automatically (5 points) |
+| [Foundry Technical Engineering Lead](https://unvacancies.org/jobs/foundry-technical-engineering-lead-68556004) | via unvacancies · engineering | 2026-10-15 | -25 days | 🟢 High | Found automatically (10 points) |
 | [WatHab Generalist Project Manager, Myanmar](https://unjobs.org/vacancies/1791298565977) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-10-12) |
 | [ENGINEER, P4](https://unjobs.org/vacancies/1791352896943) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-10-17) |
 | [Site Engineer- Limited Duration Contract (LDC)- Area Office Nablus- For Internal & External Candidates-Grade, E](https://unjobs.org/vacancies/1791352893661) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-22) |
 | [Engineer, Dodoma, Tanzania](https://unjobs.org/vacancies/1791349295461) | via UNjobs · construction | – | removed | 🟢 High | Posting removed (checked 2026-10-28) |
 | [Construction Engineer](https://unjobs.org/vacancies/1791345738022) | via UNjobs · construction | – | removed | 🟡 Medium | Posting removed (checked 2026-10-09) |
-| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) | via unvacancies · engineering | 2026-10-09 | -30 days | 🟡 Medium | Found automatically (7 points) |
-| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593) | via unvacancies · engineering | 2026-10-08 | -31 days | 🟢 High | Found automatically (16 points) |
-| [International Urban Design Lead Expert](https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835) | via unvacancies · UN-Habitat | 2026-10-14 | -25 days | 🟡 Medium | Found automatically (6 points) |
+| [Senior Drupal Infrastructure Engineer](https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157) | via unvacancies · engineering | 2026-10-09 | -31 days | 🟡 Medium | Found automatically (7 points) |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593) | via unvacancies · engineering | 2026-10-08 | -32 days | 🟢 High | Found automatically (16 points) |
+| [International Urban Design Lead Expert](https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835) | via unvacancies · UN-Habitat | 2026-10-14 | -26 days | 🟡 Medium | Found automatically (6 points) |
 | [Joint Project Coordinator \[Opent to Tier 1 & 2 applicants\], Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1790801308669) | via UNjobs · Bosnia and Herzegovina | – | removed | 🟢 High | Posting removed (checked 2026-10-09) |
 | [Project Manager, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1789649136938) | via UNjobs · Bosnia and Herzegovina | – | removed | 🟢 High | Posting removed (checked 2026-10-13) |
 | [Shelter and WaSH Technical Assistant Yemen Hodeidah (National)](https://unjobs.org/vacancies/1791109153877) | via UNjobs · construction | – | removed | ⚪ Low | Posting removed (checked 2026-10-14) |
@@ -213,25 +214,25 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg](https://unjobs.org/vacancies/1791190732675) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-10-10) |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon](https://unjobs.org/vacancies/1790951875279) | via UNjobs · infrastructure projects | – | removed | 🟡 Medium | Posting removed (checked 2026-10-18) |
 | [Senior Programme Manager – National Housing Support Programme](https://careers.unops.org/careersmarketplace/JobDetail/Senior-Programme-Manager/4692) | UNOPS for UN-Habitat · Damascus · IICA-3 | 2026-10-30 | removed | 🟢 High | Apply first. Arabic desirable only. Hardship E, non-family |
-| [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | -9 days | 🟢 High | Deadline from listing – confirm |
-| [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | -9 days | 🟡 Medium | Deadline from listing – confirm |
-| [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | -25 days | 🟡 Medium | Check it isn't local-hire only |
-| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -29 days | 🟢 High | Check French + nationality rules |
-| [International Urban Design Lead Expert](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Remote / Baku · consultancy | 2026-10-14 | -25 days | 🟡 Medium | Deadline from listing – confirm |
-| [Gaza Coordinator](https://unvacancies.org/jobs/organization/unops) | UNOPS · Gaza · P-4 | 2026-10-18 | -21 days | 🟡 Medium | High-risk post. Deadline from listing |
+| [Programme Management Specialist – UN-Habitat Syria](https://unvacancies.org/jobs/organization/unops) | UNOPS · Homs · IICA-2 | 2026-10-30 | -10 days | 🟢 High | Deadline from listing – confirm |
+| [Programme and Knowledge Management Advisor](https://unvacancies.org/jobs/organization/unops) | UNOPS for UN-Habitat · Damascus · IICA-2 | 2026-10-30 | -10 days | 🟡 Medium | Deadline from listing – confirm |
+| [Contract Management Specialist](https://careers.unops.org/) | UNOPS · Home-based | 2026-10-14 | -26 days | 🟡 Medium | Check it isn't local-hire only |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -30 days | 🟢 High | Check French + nationality rules |
+| [International Urban Design Lead Expert](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Remote / Baku · consultancy | 2026-10-14 | -26 days | 🟡 Medium | Deadline from listing – confirm |
+| [Gaza Coordinator](https://unvacancies.org/jobs/organization/unops) | UNOPS · Gaza · P-4 | 2026-10-18 | -22 days | 🟡 Medium | High-risk post. Deadline from listing |
 | [Construction Project Manager – 12-month fixed term](https://jobs.lidl.ie/jobs/construction-project-manager-12-month-fixed-term-dublin-24-755402) | Lidl Ireland · Dublin | 2026-10-16 | removed | 🟡 Medium | EU work permit needed |
-| [Associate Sector Specialist – Railway Infrastructure](https://unjobs.org/skills/infrastructure-projects) | EIB · Luxembourg | 2026-10-21 | -18 days | ⚪ Low | EIB usually hires EU nationals |
-| [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | -1 days | 🟡 Medium | Stretch: urban planning/finance focus |
-| [Junior Housing and Urban Development Analyst](https://unhabitat.org/join-us) | UN-Habitat · Montreal · IICA-1 | 2026-10-15 | -24 days | ⚪ Low | Junior – you're overqualified |
-| [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | -18 days | ⚪ Low | Policy research. Deadline from listing |
-| [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | -18 days | 🟡 Medium | Design/architecture angle. Deadline from listing |
-| [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | -18 days | 🟡 Medium | Deadline from listing |
-| [Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)](https://www.impactpool.org/jobs/1239099) | UNV · Korhogo | 2026-10-13 | -26 days | ⚪ Low | Junior UNV, French. Listings disagree on national vs international |
-| [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -31 days | ⚪ Low | Displacement/CCCM focus. French likely |
-| [National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · BiH, remote with travel | 2026-10-14 | -25 days | 🟡 Medium | National consultancy in BiH – eligible. Links to your CSW work |
-| [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · Sarajevo | 2026-10-14 | -25 days | ⚪ Low | Social protection, not construction |
-| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/function/engineering) | UN-Habitat · Niterói, Brazil | 2026-10-08 | -31 days | ⚪ Low | Portuguese likely required |
-| [Procurement Advisor](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Rio de Janeiro | 2026-10-10 | -29 days | ⚪ Low | Portuguese likely required |
+| [Associate Sector Specialist – Railway Infrastructure](https://unjobs.org/skills/infrastructure-projects) | EIB · Luxembourg | 2026-10-21 | -19 days | ⚪ Low | EIB usually hires EU nationals |
+| [Senior Programme Officer, Human Settlements (P-5)](https://careers.un.org/jobSearchDescription/284607) | UN-Habitat · Nairobi | 2026-11-07 | -2 days | 🟡 Medium | Stretch: urban planning/finance focus |
+| [Junior Housing and Urban Development Analyst](https://unhabitat.org/join-us) | UN-Habitat · Montreal · IICA-1 | 2026-10-15 | -25 days | ⚪ Low | Junior – you're overqualified |
+| [Housing Policy Analysis and Reporting Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | -19 days | ⚪ Low | Policy research. Deadline from listing |
+| [Housing Accessibility Policy and Design Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | -19 days | 🟡 Medium | Design/architecture angle. Deadline from listing |
+| [Housing Accessibility Standards Specialist](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Montreal · consultancy | 2026-10-21 | -19 days | 🟡 Medium | Deadline from listing |
+| [Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)](https://www.impactpool.org/jobs/1239099) | UNV · Korhogo | 2026-10-13 | -27 days | ⚪ Low | Junior UNV, French. Listings disagree on national vs international |
+| [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -32 days | ⚪ Low | Displacement/CCCM focus. French likely |
+| [National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · BiH, remote with travel | 2026-10-14 | -26 days | 🟡 Medium | National consultancy in BiH – eligible. Links to your CSW work |
+| [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · Sarajevo | 2026-10-14 | -26 days | ⚪ Low | Social protection, not construction |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/function/engineering) | UN-Habitat · Niterói, Brazil | 2026-10-08 | -32 days | ⚪ Low | Portuguese likely required |
+| [Procurement Advisor](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Rio de Janeiro | 2026-10-10 | -30 days | ⚪ Low | Portuguese likely required |
 
 </details>
 
@@ -260,15 +261,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | not yet |
-| unvacancies · engineering | 2026-11-06 |
+| unvacancies · engineering | 2026-11-09 |
 | unvacancies · UNOPS | 2026-11-08 |
 | unvacancies · UN-Habitat | 2026-11-07 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-08 |
-| UNjobs · construction | 2026-11-06 |
+| UNjobs · construction | 2026-11-09 |
 | UNjobs · infrastructure projects | 2026-11-08 |
 | UNOPS careers | 2026-11-07 |
 | UNICEF · construction | 2026-11-08 |
-| My link 1 | 2026-11-06 |
+| My link 1 | 2026-11-09 |
 | My link 2 | not yet |
 
 </details>
