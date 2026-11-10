@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**93 open jobs** (🟢 28 · 🟡 54 · ⚪ 11) · updated 2026-11-10 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**95 open jobs** (🟢 28 · 🟡 56 · ⚪ 11) · updated 2026-11-10 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -44,6 +44,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management](https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490) | via unvacancies · engineering | 2026-11-19 | 9 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) | via UNjobs · infrastructure projects | 2026-11-19 | 9 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 15 days | 🟡 Medium | Found automatically (7 points) |
+| [Senior Infra DevOps Engineer, Warsaw](https://unjobs.org/vacancies/1794286865784) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
+| [Design Engineer, Yangon](https://unjobs.org/vacancies/1794283274464) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
 | [ENGINEER, P3](https://unjobs.org/vacancies/1794247249726) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Mechanical Engineer](https://unjobs.org/vacancies/1794232891034) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg](https://unjobs.org/vacancies/1794225250834) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (6 points) |
