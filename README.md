@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**95 open jobs** (🟢 28 · 🟡 56 · ⚪ 11) · updated 2026-11-10 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**96 open jobs** (🟢 29 · 🟡 56 · ⚪ 11) · updated 2026-11-10 · checks every 5 minutes · sources working today: 6 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -14,6 +14,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels) 🆕 | via UNICEF · construction | 2026-11-15 | 🔴 5 days | 🟢 High | Found automatically (16 points) |
 | [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) | via UNICEF · construction | 2026-11-17 | 🔴 7 days | 🟢 High | Found automatically (13 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 34 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1794157239920) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (13 points) |
 | [Biomedical Engineer](https://unjobs.org/vacancies/1794225678460) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
 | [Construction Management Lead Engineer, Tashkent](https://unjobs.org/vacancies/1794225678882) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
 | [Construction Management Senior Associate Engineer, Tashkent](https://unjobs.org/vacancies/1794225679083) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
@@ -274,11 +275,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | unvacancies · engineering | 2026-11-09 |
 | unvacancies · UNOPS | 2026-11-10 |
 | unvacancies · UN-Habitat | 2026-11-10 |
-| UNjobs · Bosnia and Herzegovina | 2026-11-08 |
+| UNjobs · Bosnia and Herzegovina | 2026-11-10 |
 | UNjobs · construction | 2026-11-09 |
 | UNjobs · infrastructure projects | 2026-11-10 |
 | UNOPS careers | 2026-11-10 |
-| UNICEF · construction | 2026-11-08 |
+| UNICEF · construction | 2026-11-10 |
 | My link 1 | 2026-11-09 |
 | My link 2 | not yet |
 
