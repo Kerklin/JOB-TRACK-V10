@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-09T3"
+    "muted": "2026-11-10T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-09T3"
+    "muted": "2026-11-10T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-09",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-09",
+    "last_ok": "2026-11-10",
     "muted": ""
    },
    "UNOPS careers": {
@@ -67,12 +67,12 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-11-09T3"
+    "muted": "2026-11-10T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-09",
-  "vcheck": "2026-11-03",
+  "maint": "2026-11-10",
+  "vcheck": "2026-11-10",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
@@ -351,7 +351,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe",
@@ -362,7 +362,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Climate-Resilient Health Care Facilities, Cairo",
@@ -370,10 +370,10 @@
    "link": "https://unjobs.org/vacancies/1793728935490",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-10)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-10"
   },
   {
    "title": "WASH Specialist",
@@ -381,10 +381,10 @@
    "link": "https://unjobs.org/vacancies/1793728932248",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-10)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-10"
   },
   {
    "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
@@ -395,7 +395,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Mechanical Engineer",
@@ -406,7 +406,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Mechanical Engineer, Homs, Syria",
@@ -417,7 +417,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo",
@@ -428,7 +428,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip",
@@ -439,7 +439,7 @@
    "note": "Found automatically (13 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Field Engineer Consultant, Hyderabad, Pakistan, Education, 14 Months, Office based (With Travel) , Nationals Only#596783",
@@ -450,7 +450,7 @@
    "note": "Found automatically (21 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956",
@@ -461,7 +461,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-10"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -469,10 +469,10 @@
    "link": "https://unjobs.org/vacancies/1793621020902",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-10)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-10"
   },
   {
    "title": "Restoration Forester, Private Lands (VA), Marion , United States",
@@ -2529,7 +2529,7 @@
    "note": "Displacement/CCCM focus. French likely",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-10"
   },
   {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
@@ -2562,7 +2562,7 @@
    "note": "Portuguese likely required",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-10"
   },
   {
    "title": "Director, Europe Sustainable Infrastructure, Energy",
@@ -2573,7 +2573,7 @@
    "note": "Very senior banking role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-02"
+   "checked": "2026-11-10"
   },
   {
    "title": "Procurement Advisor",
