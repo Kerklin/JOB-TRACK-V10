@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-10T1"
+    "muted": "2026-11-11T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-10T1"
+    "muted": "2026-11-11T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-11",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-10",
+  "maint": "2026-11-11",
   "vcheck": "2026-11-10",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -318,7 +318,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Capacity Building Specialist (Media and Communication), Home-based, Remote",
@@ -329,7 +329,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote",
@@ -340,7 +340,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe, Paris",
@@ -351,7 +351,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -362,7 +362,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-11"
   },
   {
    "title": "WASH Consultant, Windhoek, Namibia (Office-based + Possible In-country Travel), 6 months, National Candidates Only, #596782",
@@ -832,10 +832,10 @@
    "link": "https://unjobs.org/vacancies/1793188852256",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-28",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Linear Infrastructure Ecologist, United States",
@@ -901,7 +901,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-11"
   },
   {
    "title": "Resident Engineer, Dhusamareb, Somalia",
@@ -923,7 +923,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-11"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -1140,10 +1140,10 @@
    "link": "https://unjobs.org/vacancies/1792602088105",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Individual Long-Term Agreement (LTA) for Water Supply Engineering Consultant with UNICEF Pacific (300 working days over 36 months)",
@@ -1151,10 +1151,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596528/individual-longterm-agreement-lta-for-water-supply-engineering-consultant-with-unicef-pacific-300-working-days-over-36-months",
    "deadline": "2026-11-05",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Technical support for WASH in Schools and Systems Strengthening, Madhesh Province (National, Office based with travel), 6 months, Janakpur, Nepal",
@@ -1209,7 +1209,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-11"
   },
   {
    "title": "Officier WASH, Muyinga, Burundi",
@@ -1239,10 +1239,10 @@
    "link": "https://unjobs.org/vacancies/1792558930105",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-11)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-11-03"
+   "status": "removed",
+   "checked": "2026-11-11"
   },
   {
    "title": "Technical Advisor I-Shelter & Settlements RAPID, United States",
@@ -1253,7 +1253,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-11"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -2045,7 +2045,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-11"
   },
   {
    "title": "Foundry Technical Engineering Lead",
@@ -2056,7 +2056,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-11-03"
+   "checked": "2026-11-11"
   },
   {
    "title": "WatHab Generalist Project Manager, Myanmar",
