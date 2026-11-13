@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-10T2"
+    "muted": "2026-11-13T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-10T2"
+    "muted": "2026-11-13T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-13",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-10",
+    "last_ok": "2026-11-13",
     "muted": ""
    },
    "UNOPS careers": {
@@ -67,17 +67,28 @@
    },
    "My link 2": {
     "last_ok": "",
-    "muted": "2026-11-10T2"
+    "muted": "2026-11-13T0"
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-12",
+  "maint": "2026-11-13",
   "vcheck": "2026-11-10",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/project-manager-infrastructure-OPS-5162",
+   "deadline": "2026-11-17",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-13",
+   "status": "open",
+   "checked": "2026-11-13"
+  },
   {
    "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
    "info": "via unvacancies · engineering",
@@ -307,7 +318,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia",
@@ -315,10 +326,10 @@
    "link": "https://unjobs.org/vacancies/1793845782259",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (9 points)",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-11-05",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Civil Engineer, Bishkek",
@@ -329,7 +340,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Manager (Infrastructure), Colombo, Sri Lanka",
@@ -340,7 +351,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-13"
   },
   {
    "title": "Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -351,7 +362,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Engineer",
@@ -843,10 +854,10 @@
    "link": "https://unjobs.org/vacancies/1793181721552",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Housing Economist, Montreal",
@@ -857,7 +868,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-13"
   },
   {
    "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
@@ -865,10 +876,10 @@
    "link": "https://unjobs.org/vacancies/1793163739608",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Manager [Open to Tier 1 and 2 applicants], Sarajevo",
@@ -1140,10 +1151,10 @@
    "link": "https://unjobs.org/vacancies/1792677691805",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "SENIOR FACILITIES MANAGEMENT ASSISTANT, G7",
@@ -1162,10 +1173,10 @@
    "link": "https://unjobs.org/vacancies/1792731679962",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-10-23",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Manager, Global Housing Hub",
@@ -1176,7 +1187,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-13"
   },
   {
    "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
@@ -1404,10 +1415,10 @@
    "link": "https://unjobs.org/vacancies/1792440024693",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (12 points)",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Project Coordinator",
@@ -1426,10 +1437,10 @@
    "link": "https://unjobs.org/vacancies/1792429248532",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (16 points)",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Consultant: Field Engineer (READY), Pohnpei",
@@ -1437,10 +1448,10 @@
    "link": "https://unjobs.org/vacancies/1792368028760",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-13)",
    "found": "2026-10-19",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-13"
   },
   {
    "title": "Housing, Land and Property Advisor",
@@ -2254,7 +2265,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-04"
+   "checked": "2026-11-13"
   },
   {
    "title": "Senior Manufacturing Engineer, San Jose, California, United States",
