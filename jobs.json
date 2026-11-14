@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-13T1"
+    "muted": "2026-11-14T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-12T3"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-13",
+    "last_ok": "2026-11-14",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-13",
+    "last_ok": "2026-11-14",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": ""
    },
    "My link 1": {
-    "last_ok": "2026-11-13",
+    "last_ok": "2026-11-14",
     "muted": ""
    },
    "My link 2": {
@@ -71,13 +71,68 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-13",
+  "maint": "2026-11-14",
   "vcheck": "2026-11-10",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794607291384",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
+  {
+   "title": "Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794502850841",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
+  {
+   "title": "Senior Director-Infrastructure",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794391354152",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
+  {
+   "title": "Civil Engineer (Quantity Surveying & Cost Estimation)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794427295862",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
+  {
+   "title": "Project Manager (Infrastructure)",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794477686642",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-14",
+   "status": "open",
+   "checked": "2026-11-14"
+  },
   {
    "title": "Project Manager (Infrastructure)",
    "info": "via unvacancies · UNOPS",
@@ -293,10 +348,10 @@
    "link": "https://unjobs.org/vacancies/1794051611532",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-11-07",
-   "status": "open",
-   "checked": "2026-11-07"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management",
@@ -307,7 +362,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-06",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "Salesforce Marketing Cloud Architect",
@@ -747,7 +802,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "Climate-Resilient Health Care Facilities, Cairo",
@@ -777,10 +832,10 @@
    "link": "https://unjobs.org/vacancies/1793336484540",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-30",
-   "status": "open",
-   "checked": "2026-11-06"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "WASH & Infrastructure Coordinator, Khartoum",
@@ -791,7 +846,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
@@ -1096,10 +1151,10 @@
    "link": "https://unjobs.org/vacancies/1792861242574",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (10 points)",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-24",
-   "status": "open",
-   "checked": "2026-11-06"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -1462,7 +1517,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-14"
   },
   {
    "title": "Structural Engineer",
@@ -1693,7 +1748,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "NBC Urban Designer - International Consultant, Beirut, Lebanon",
@@ -2276,7 +2331,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-05"
+   "checked": "2026-11-14"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -2339,10 +2394,10 @@
    "link": "https://unjobs.org/vacancies/1790750189205",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-11-14)",
    "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-05"
+   "status": "removed",
+   "checked": "2026-11-14"
   },
   {
    "title": "Senior Programme Manager – National Housing Support Programme",
@@ -2386,7 +2441,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "ETC Construction Coordinator (5 positions)",
@@ -2397,7 +2452,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -2430,7 +2485,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)",
@@ -2452,7 +2507,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "Program Director for Europe",
@@ -2463,7 +2518,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-06"
+   "checked": "2026-11-14"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
