@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**81 open jobs** (🟢 21 · 🟡 51 · ⚪ 9) · updated 2026-11-15 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**88 open jobs** (🟢 24 · 🟡 55 · ⚪ 9) · updated 2026-11-15 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -11,6 +11,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels](https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels) | via UNICEF · construction | 2026-11-15 | 🔴 0 days | 🟢 High | Found automatically (16 points) |
 | [INTERNATIONAL only - Construction Engineer Consultant- Teraina and Tabuaeran , UNICEF Pacific Multi-Country Office - WASH, 7 months, Office based with trip](https://jobs.unicef.org/en-us/job/596790/international-only-construction-engineer-consultant-teraina-and-tabuaeran-unicef-pacific-multicountry-office-wash-7-months-office-based-with-trip) | via UNICEF · construction | 2026-11-17 | 🔴 2 days | 🟢 High | Found automatically (13 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 29 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Senior Technical Officer -WASH, Maiduguri, Nigeria](https://unjobs.org/vacancies/1794718889633) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (14 points) |
+| [E T Consultant - Environmental Engineer, Dhaka](https://unjobs.org/vacancies/1794718859986) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
+| [Civil Engineer, Port Moresby](https://unjobs.org/vacancies/1794528078953) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
 | [Civil Engineer (Quantity Surveying & Cost Estimation)](https://unjobs.org/vacancies/1794427295862) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
 | [Facilities Services Specialist, P-3, TA (4 months), #138985, Dakar - Senegal, WCAR](https://unjobs.org/vacancies/1794416439940) | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
 | [National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina](https://unjobs.org/vacancies/1794157239920) | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (13 points) |
@@ -37,6 +40,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) | via UNjobs · infrastructure projects | 2026-11-19 | 🔴 4 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Facilities Management, Infrastructure & Sustainability Consultant](https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000) | via unvacancies · engineering | 2026-11-20 | 🔴 5 days | 🟡 Medium | Found automatically (6 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 10 days | 🟡 Medium | Found automatically (7 points) |
+| [Field Project Assistant (Shelter/NFI), Chittagong](https://unjobs.org/vacancies/1794736838489) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (9 points) |
+| [Field Engineer, Chaman, Pakistan](https://unjobs.org/vacancies/1794718910686) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
+| [100000000784.Project Engineer, Doha](https://unjobs.org/vacancies/1794718864489) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
+| [Lead Biomedical Engineer](https://unjobs.org/vacancies/1794542481261) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1794607291384) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958](https://unjobs.org/vacancies/1794502850841) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Senior Director-Infrastructure](https://unjobs.org/vacancies/1794391354152) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
