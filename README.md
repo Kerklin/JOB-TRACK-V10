@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**85 open jobs** (🟢 21 · 🟡 53 · ⚪ 11) · updated 2026-11-18 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**88 open jobs** (🟢 21 · 🟡 56 · ⚪ 11) · updated 2026-11-18 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -29,11 +29,14 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum](https://unjobs.org/vacancies/1791262902457) | via UNjobs · construction | – | check | 🟢 High | Found automatically (19 points) |
 | [Architect / Civil Engineer – Building in Existing Buildings (Req 3412)](https://jobboerse.strabag.at/job-detail.php?ReqId=3412&language=AT_EN) | STRABAG · Austria | – | check | 🟢 High | Check deadline + work permit |
 | [Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)](https://unjobs.org/skills/infrastructure-projects) | Danish Refugee Council · Beirut | – | check | 🟢 High | Check deadline |
+| [Infrastructure Specialist - (Dir Hafir)](https://reliefweb.int/job/4238039/infrastructure-specialist-dir-hafir) 🆕 | via My link 2 | 2026-11-19 | 🔴 1 days | 🟡 Medium | Found automatically (8 points) |
 | [CRFM-Flood Protection and Water Resources Engineering Expert](https://unvacancies.org/jobs/crfm-flood-protection-and-water-resources-engineering-expert-IC-51514) | via unvacancies · engineering | 2026-11-19 | 🔴 1 days | 🟡 Medium | Found automatically (6 points) |
 | [CRFM-Hydro-Engineering Expert for Climate-Resilient Flood Management](https://unvacancies.org/jobs/crfm-hydro-engineering-expert-for-climate-resilient-flood-management-IC-51490) | via unvacancies · engineering | 2026-11-19 | 🔴 1 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager (Infrastructure), Colombo, Sri Lanka](https://unjobs.org/vacancies/1793858479927) | via UNjobs · infrastructure projects | 2026-11-19 | 🔴 1 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Facilities Management, Infrastructure & Sustainability Consultant](https://unvacancies.org/jobs/senior-facilities-management-infrastructure-sustainability-consultant-A-288000) | via unvacancies · engineering | 2026-11-20 | 🔴 2 days | 🟡 Medium | Found automatically (6 points) |
+| [Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County](https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county) 🆕 | via My link 2 | 2026-11-25 | 🔴 7 days | 🟡 Medium | Found automatically (6 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 7 days | 🟡 Medium | Found automatically (7 points) |
+| [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) 🆕 | via My link 2 | 2026-12-31 | 43 days | 🟡 Medium | Found automatically (7 points) |
 | [WASH Engineer, Mindanao, Philippines](https://unjobs.org/vacancies/1794412365985) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
@@ -309,6 +312,6 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | UNOPS careers | 2026-11-18 |
 | UNICEF · construction | 2026-11-12 |
 | My link 1 | 2026-11-17 |
-| My link 2 | not yet |
+| My link 2 | 2026-11-18 |
 
 </details>

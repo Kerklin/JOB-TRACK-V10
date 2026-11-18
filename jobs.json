@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-18T0"
+    "muted": "2026-11-18T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-18T0"
+    "muted": "2026-11-18T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -66,8 +66,8 @@
     "muted": ""
    },
    "My link 2": {
-    "last_ok": "",
-    "muted": "2026-11-18T0"
+    "last_ok": "2026-11-18",
+    "muted": ""
    }
   },
   "since": "2026-10-06",
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County",
+   "info": "via My link 2",
+   "link": "https://reliefweb.int/job/4238728/consultancy-services-technical-supervision-construction-15-blocks-60-units-vip-latrines-schools-west-pokot-county",
+   "deadline": "2026-11-25",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
+  {
+   "title": "Infrastructure Specialist - (Dir Hafir)",
+   "info": "via My link 2",
+   "link": "https://reliefweb.int/job/4238039/infrastructure-specialist-dir-hafir",
+   "deadline": "2026-11-19",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
+  {
+   "title": "Project Manager, Health Infrastructure (Surkhet, Nepal)",
+   "info": "via My link 2",
+   "link": "https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal",
+   "deadline": "2026-12-31",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
   {
    "title": "Advisor, Financial Systems & Digital Infrastructure",
    "info": "via unvacancies · UNOPS",
