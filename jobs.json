@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-17T0"
+    "muted": "2026-11-18T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-17T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": "2026-11-17T2"
    },
    "My link 1": {
-    "last_ok": "2026-11-17",
+    "last_ok": "2026-11-18",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Facilities Services Specialist, P-3, TA (4 months), #138985, Dakar - Senegal, WCAR",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795021255741",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
+  {
+   "title": "Construction Management Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794974487378",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
+  {
+   "title": "Civil Engineer QA/QC (3 positions), Haiti",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794944927916",
+   "deadline": "2026-11-24",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-18",
+   "status": "open",
+   "checked": "2026-11-18"
+  },
   {
    "title": "Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County",
    "info": "via My link 2",
