@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-18T3"
+    "muted": "2026-11-19T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": "2026-11-17T2"
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": "2026-11-17T2"
    },
    "My link 1": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-19",
     "muted": ""
    },
    "My link 2": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-18",
+  "maint": "2026-11-19",
   "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -417,7 +417,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-12",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-19"
   },
   {
    "title": "WASH Specialist",
@@ -425,10 +425,10 @@
    "link": "https://unjobs.org/vacancies/1794420127791",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-11-12",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "Facilities Services Specialist, P-3, TA (4 months), #138985, Dakar - Senegal, WCAR",
@@ -439,7 +439,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-11-12",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-19"
   },
   {
    "title": "Associate Director, Infrastructure and Biomedical Engineering",
@@ -447,10 +447,10 @@
    "link": "https://unjobs.org/vacancies/1794314671269",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-11-12",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina",
@@ -703,7 +703,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-19"
   },
   {
    "title": "Capacity Building Specialist (Media development, journalism and strategic communication), Home-based, Remote",
@@ -714,7 +714,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-19"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe, Paris",
@@ -722,10 +722,10 @@
    "link": "https://unjobs.org/vacancies/1793768476651",
    "deadline": "",
    "fit": "Low",
-   "note": "Found automatically (5 points)",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-11-04",
-   "status": "open",
-   "checked": "2026-11-11"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "Senior Project Manager (Infrastructure)",
@@ -736,7 +736,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-04",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-19"
   },
   {
    "title": "WASH Consultant, Windhoek, Namibia (Office-based + Possible In-country Travel), 6 months, National Candidates Only, #596782",
@@ -744,10 +744,10 @@
    "link": "https://unjobs.org/vacancies/1793725260704",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-11-04",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "INTERNATIONAL only – Construction Engineer Consultant- Teraina and Tabuaeran, UNICEF Pacific Multi-Country Office – WASH, 7 months, Office based with trip",
@@ -1275,7 +1275,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-19"
   },
   {
    "title": "Resident Engineer, Dhusamareb, Somalia",
@@ -1297,7 +1297,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-19"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -1580,10 +1580,10 @@
    "link": "https://unjobs.org/vacancies/1792641704596",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-11-19)",
    "found": "2026-10-22",
-   "status": "open",
-   "checked": "2026-11-11"
+   "status": "removed",
+   "checked": "2026-11-19"
   },
   {
    "title": "Officier WASH, Muyinga, Burundi",
@@ -1627,7 +1627,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-22",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-19"
   },
   {
    "title": "Technical Expert for District Heating (WASH), Kyiv",
@@ -2419,7 +2419,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-19"
   },
   {
    "title": "Foundry Technical Engineering Lead",
@@ -2430,7 +2430,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-11-11"
+   "checked": "2026-11-19"
   },
   {
    "title": "WatHab Generalist Project Manager, Myanmar",
