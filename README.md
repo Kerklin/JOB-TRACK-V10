@@ -2,13 +2,14 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**86 open jobs** (🟢 22 · 🟡 53 · ⚪ 11) · updated 2026-11-19 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**87 open jobs** (🟢 23 · 🟡 53 · ⚪ 11) · updated 2026-11-19 · checks every 5 minutes · sources working today: 7 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 25 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1795107655532) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (10 points) |
 | [Facilities Services Specialist, P-3, TA (4 months), #138985, Dakar - Senegal, WCAR](https://unjobs.org/vacancies/1795021255741) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (10 points) |
 | [Construction Management Engineer](https://unjobs.org/vacancies/1794974487378) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
 | [Local Individual Contractor (Civil Work Engineer), Bishkek](https://unjobs.org/vacancies/1794916847840) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (15 points) |
@@ -305,11 +306,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · architect | not yet |
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
-| ReliefWeb · Bosnia and Herzegovina | not yet |
+| ReliefWeb · Bosnia and Herzegovina | 2026-11-19 |
 | unvacancies · engineering | 2026-11-19 |
 | unvacancies · UNOPS | 2026-11-18 |
 | unvacancies · UN-Habitat | 2026-11-19 |
-| UNjobs · Bosnia and Herzegovina | 2026-11-17 |
+| UNjobs · Bosnia and Herzegovina | 2026-11-19 |
 | UNjobs · construction | 2026-11-19 |
 | UNjobs · infrastructure projects | 2026-11-18 |
 | UNOPS careers | 2026-11-19 |
