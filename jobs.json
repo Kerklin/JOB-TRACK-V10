@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-19T0"
+    "muted": "2026-11-20T0"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": "2026-11-19T3"
    },
    "My link 1": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "My link 2": {
@@ -71,13 +71,46 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-19",
+  "maint": "2026-11-20",
   "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Irrigation And Rural Infrastructure Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357",
+   "deadline": "2026-12-17",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1794996082781",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "Lead Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795075281189",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (11 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
   {
    "title": "Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
    "info": "via UNjobs · Bosnia and Herzegovina",
@@ -417,7 +450,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-13",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
@@ -648,7 +681,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia",
@@ -670,7 +703,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-20"
   },
   {
    "title": "Project Manager (Infrastructure), Colombo, Sri Lanka",
@@ -1132,7 +1165,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "Civil Engineer (Project Management and Construction Supervision)",
@@ -1143,7 +1176,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant), Mykolaiv",
@@ -1151,10 +1184,10 @@
    "link": "https://unjobs.org/vacancies/1793282444060",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (19 points)",
+   "note": "Posting removed (checked 2026-11-20)",
    "found": "2026-10-29",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-20"
   },
   {
    "title": "Solar Installation Quality Assurance Engineer, Kampala",
@@ -1231,7 +1264,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-28",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "WASH & Rehabilitation Officer (Roster), Hassakah, Syria",
@@ -1866,10 +1899,10 @@
    "link": "https://unjobs.org/vacancies/1792126888214",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-20)",
    "found": "2026-10-17",
-   "status": "open",
-   "checked": "2026-11-12"
+   "status": "removed",
+   "checked": "2026-11-20"
   },
   {
    "title": "Mobile Test Site Project Manager, Esparto, United States",
@@ -1880,7 +1913,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-17",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "Civil Engineer/Architect – BiH",
@@ -2232,7 +2265,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "WASH Supervisor - Tyre, Tyre, Lebanon",
@@ -2518,7 +2551,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "Technical Supervisor (Engineering/Architecture)",
@@ -2529,7 +2562,7 @@
    "note": "Found automatically (16 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -2540,7 +2573,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
@@ -2573,7 +2606,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "Civil Engineer (Water Resources Infrastructure Development and Management), Khartoum",
@@ -2584,7 +2617,7 @@
    "note": "Found automatically (19 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-12"
+   "checked": "2026-11-20"
   },
   {
    "title": "Senior Mechanical Engineer - Thermophotovoltaic Hardware & Manufacturing, San Jose, California, United States",
