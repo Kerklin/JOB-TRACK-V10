@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-20T0"
+    "muted": "2026-11-20T1"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Nuclear Engineer (PRIS)(P4), IAEA Headquarters, Austria",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150895962",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "Irrigation And Rural Infrastructure Engineer, Rome",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150888034",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "WaSH Field Officer (Infrastructure background) - Tyre",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795150864310",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
   {
    "title": "Irrigation And Rural Infrastructure Engineer",
    "info": "via unvacancies · engineering",

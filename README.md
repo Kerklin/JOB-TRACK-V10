@@ -2,13 +2,14 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**84 open jobs** (🟢 24 · 🟡 49 · ⚪ 11) · updated 2026-11-20 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**87 open jobs** (🟢 25 · 🟡 51 · ⚪ 11) · updated 2026-11-20 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 24 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
 | [Civil Engineer](https://unjobs.org/vacancies/1794996082781) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
 | [Lead Civil Engineer](https://unjobs.org/vacancies/1795075281189) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
 | [Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based](https://unjobs.org/vacancies/1795107655532) 🆕 | via UNjobs · Bosnia and Herzegovina | – | check | 🟢 High | Found automatically (10 points) |
@@ -37,6 +38,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 5 days | 🟡 Medium | Found automatically (7 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 27 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) 🆕 | via My link 2 | 2026-12-31 | 41 days | 🟡 Medium | Found automatically (7 points) |
+| [Nuclear Engineer (PRIS)(P4), IAEA Headquarters, Austria](https://unjobs.org/vacancies/1795150895962) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [WaSH Field Officer (Infrastructure background) - Tyre](https://unjobs.org/vacancies/1795150864310) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [WASH Engineer, Mindanao, Philippines](https://unjobs.org/vacancies/1794412365985) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
 | [Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany](https://unjobs.org/vacancies/1794459646064) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Information Management Officer (WASH)](https://unjobs.org/vacancies/1794859326088) | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
