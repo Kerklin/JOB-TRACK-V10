@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-18T2"
+    "muted": "2026-11-20T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-18T2"
+    "muted": "2026-11-20T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-20",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,7 +66,7 @@
     "muted": ""
    },
    "My link 2": {
-    "last_ok": "2026-11-18",
+    "last_ok": "2026-11-20",
     "muted": ""
    }
   },
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Senior Project Associate –Infrastructure Support, Kigoma",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795183240776",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (12 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "Civil Engineer, LICA-9, Tarawa - Kiribati",
+   "info": "via My link 2",
+   "link": "https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati",
+   "deadline": "2026-12-02",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
+  {
+   "title": "WASH Program Manager- Re-advertised - Syria Aleppo & Idleb",
+   "info": "via My link 2",
+   "link": "https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb",
+   "deadline": "2026-12-03",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-20",
+   "status": "open",
+   "checked": "2026-11-20"
+  },
   {
    "title": "Nuclear Engineer (PRIS)(P4), IAEA Headquarters, Austria",
    "info": "via UNjobs · construction",

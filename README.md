@@ -2,13 +2,14 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**87 open jobs** (🟢 25 · 🟡 51 · ⚪ 11) · updated 2026-11-20 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**90 open jobs** (🟢 26 · 🟡 51 · ⚪ 13) · updated 2026-11-20 · checks every 5 minutes · sources working today: 8 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 24 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Senior Project Associate –Infrastructure Support, Kigoma](https://unjobs.org/vacancies/1795183240776) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
 | [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
 | [Civil Engineer](https://unjobs.org/vacancies/1794996082781) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
 | [Lead Civil Engineer](https://unjobs.org/vacancies/1795075281189) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
@@ -86,6 +87,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [WASH & Shelter Coordinator](https://unjobs.org/skills/construction) | Save the Children · Field | – | check | 🟡 Medium | Verify it's still open |
 | [Civil Engineer QA/QC (3 positions), Haiti](https://unjobs.org/vacancies/1794944927916) 🆕 | via UNjobs · construction | 2026-11-24 | 🔴 4 days | ⚪ Low | Found automatically (5 points) |
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) 🆕 | via unvacancies · UNOPS | 2026-12-01 | 11 days | ⚪ Low | Found automatically (5 points) |
+| [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) 🆕 | via My link 2 | 2026-12-02 | 12 days | ⚪ Low | Found automatically (5 points) |
+| [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) 🆕 | via My link 2 | 2026-12-03 | 13 days | ⚪ Low | Found automatically (5 points) |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
@@ -314,14 +317,14 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-20 |
 | unvacancies · engineering | 2026-11-20 |
-| unvacancies · UNOPS | 2026-11-18 |
+| unvacancies · UNOPS | 2026-11-20 |
 | unvacancies · UN-Habitat | 2026-11-19 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-20 |
 | UNjobs · construction | 2026-11-20 |
-| UNjobs · infrastructure projects | 2026-11-18 |
+| UNjobs · infrastructure projects | 2026-11-20 |
 | UNOPS careers | 2026-11-19 |
 | UNICEF · construction | 2026-11-12 |
 | My link 1 | 2026-11-20 |
-| My link 2 | 2026-11-18 |
+| My link 2 | 2026-11-20 |
 
 </details>
