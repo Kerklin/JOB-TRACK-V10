@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-20T1"
+    "muted": "2026-11-21T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": "2026-11-20T2"
    },
    "My link 1": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Civil Engineer",
+   "info": "via unvacancies · engineering",
+   "link": "https://unvacancies.org/jobs/civil-engineer--2602361",
+   "deadline": "2026-12-04",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "WASH Specialist",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795264050944",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
+  {
+   "title": "Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795194048635",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-21",
+   "status": "open",
+   "checked": "2026-11-21"
+  },
   {
    "title": "Senior Project Associate –Infrastructure Support, Kigoma",
    "info": "via UNjobs · infrastructure projects",

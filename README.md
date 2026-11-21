@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**89 open jobs** (🟢 26 · 🟡 50 · ⚪ 13) · updated 2026-11-21 · checks every 5 minutes · sources working today: 2 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**92 open jobs** (🟢 26 · 🟡 52 · ⚪ 14) · updated 2026-11-21 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -38,6 +38,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 4 days | 🟡 Medium | Found automatically (7 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 26 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) | via My link 2 | 2026-12-31 | 40 days | 🟡 Medium | Found automatically (7 points) |
+| [WASH Specialist](https://unjobs.org/vacancies/1795264050944) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
+| [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan](https://unjobs.org/vacancies/1795194048635) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Nuclear Engineer (PRIS)(P4), IAEA Headquarters, Austria](https://unjobs.org/vacancies/1795150895962) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [WaSH Field Officer (Infrastructure background) - Tyre](https://unjobs.org/vacancies/1795150864310) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [WASH Engineer, Mindanao, Philippines](https://unjobs.org/vacancies/1794412365985) | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (7 points) |
@@ -88,6 +90,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Advisor, Financial Systems & Digital Infrastructure](https://unvacancies.org/jobs/advisor-financial-systems-digital-infrastructure-OPS-5172) | via unvacancies · UNOPS | 2026-12-01 | 10 days | ⚪ Low | Found automatically (5 points) |
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) 🆕 | via My link 2 | 2026-12-02 | 11 days | ⚪ Low | Found automatically (5 points) |
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) 🆕 | via My link 2 | 2026-12-03 | 12 days | ⚪ Low | Found automatically (5 points) |
+| [Civil Engineer](https://unvacancies.org/jobs/civil-engineer--2602361) 🆕 | via unvacancies · engineering | 2026-12-04 | 13 days | ⚪ Low | Found automatically (5 points) |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
@@ -316,15 +319,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-20 |
-| unvacancies · engineering | 2026-11-20 |
+| unvacancies · engineering | 2026-11-21 |
 | unvacancies · UNOPS | 2026-11-20 |
 | unvacancies · UN-Habitat | 2026-11-21 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-20 |
-| UNjobs · construction | 2026-11-20 |
+| UNjobs · construction | 2026-11-21 |
 | UNjobs · infrastructure projects | 2026-11-20 |
 | UNOPS careers | 2026-11-21 |
 | UNICEF · construction | 2026-11-12 |
-| My link 1 | 2026-11-20 |
+| My link 1 | 2026-11-21 |
 | My link 2 | 2026-11-20 |
 
 </details>
