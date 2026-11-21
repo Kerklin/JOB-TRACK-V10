@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-19T2"
+    "muted": "2026-11-21T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-19T2"
+    "muted": "2026-11-21T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "2026-11-20",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-19",
+    "last_ok": "2026-11-21",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-20",
+  "maint": "2026-11-21",
   "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -461,7 +461,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-14",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Construction Supervision Consultant, Nationals Only, 11 months, Pemba, Cabo Delgado, Mozambique, Office-based + travel, 596958",
@@ -472,7 +472,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-14",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Senior Director-Infrastructure",
@@ -483,7 +483,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-14",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Civil Engineer (Quantity Surveying & Cost Estimation)",
@@ -494,7 +494,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-14",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Project Manager (Infrastructure)",
@@ -505,7 +505,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-11-14",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Project Manager (Infrastructure)",
@@ -736,7 +736,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-06",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Salesforce Marketing Cloud Architect",
@@ -780,7 +780,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-21"
   },
   {
    "title": "Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -791,7 +791,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-21"
   },
   {
    "title": "Project Engineer",
@@ -1176,7 +1176,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Climate-Resilient Health Care Facilities, Cairo",
@@ -1220,7 +1220,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-30",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Infrastructure Field Engineer (Consultant)",
@@ -1297,7 +1297,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-29",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-21"
   },
   {
    "title": "Supply Chain Construction Manager, Bunia, Democratic Republic of Congo",
@@ -1616,7 +1616,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-23",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-21"
   },
   {
    "title": "Development and Delivery of Capacity Building Programme on Public–Private Partnerships in Early Childhood Education and Care, Education Section, Sarajevo",
@@ -1891,7 +1891,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-10-19",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "Structural Engineer",
@@ -2122,7 +2122,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-15",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-21"
   },
   {
    "title": "NBC Urban Designer - International Consultant, Beirut, Lebanon",
@@ -2694,7 +2694,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-13"
+   "checked": "2026-11-21"
   },
   {
    "title": "Senior Manufacturing Engineer, San Jose, California, United States",
