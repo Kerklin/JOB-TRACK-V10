@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**92 open jobs** (🟢 26 · 🟡 52 · ⚪ 14) · updated 2026-11-21 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**94 open jobs** (🟢 26 · 🟡 54 · ⚪ 14) · updated 2026-11-21 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -38,6 +38,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 4 days | 🟡 Medium | Found automatically (7 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 26 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) | via My link 2 | 2026-12-31 | 40 days | 🟡 Medium | Found automatically (7 points) |
+| [Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States](https://unjobs.org/vacancies/1795253353250) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
+| [EHS Design and Engineering Integration Lead, San Jose, California, United States](https://unjobs.org/vacancies/1795253365759) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [WASH Specialist](https://unjobs.org/vacancies/1795264050944) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Batch of 2 positions, Construction Engineer/Officer (NO-1), TA (11 months), #00139082, #00139081, (Malakal, Wau), South Sudan](https://unjobs.org/vacancies/1795194048635) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Nuclear Engineer (PRIS)(P4), IAEA Headquarters, Austria](https://unjobs.org/vacancies/1795150895962) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (8 points) |
