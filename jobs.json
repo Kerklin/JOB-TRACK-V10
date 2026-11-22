@@ -15,7 +15,7 @@
    },
    "ReliefWeb · architect": {
     "last_ok": "",
-    "muted": "2026-11-21T3"
+    "muted": "2026-11-22T3"
    },
    "ReliefWeb · housing": {
     "last_ok": "",
@@ -30,7 +30,7 @@
     "muted": ""
    },
    "unvacancies · engineering": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "unvacancies · UNOPS": {
@@ -46,7 +46,7 @@
     "muted": ""
    },
    "UNjobs · construction": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
@@ -62,7 +62,7 @@
     "muted": "2026-11-20T2"
    },
    "My link 1": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "My link 2": {
@@ -78,6 +78,61 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Civil Engineer, Port Moresby",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795154481065",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (15 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Construction Management Associate Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795161687376",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Civil Engineer",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795190488255",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Civil Engineer, Harare",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795323709396",
+   "deadline": "",
+   "fit": "Low",
+   "note": "Found automatically (5 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Field Engineer, Malakal, Rumbek, Rubkona & Twic, Juba",
+   "info": "via UNjobs · construction",
+   "link": "https://unjobs.org/vacancies/1795323684768",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · UNOPS",

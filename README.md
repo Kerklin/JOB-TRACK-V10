@@ -2,13 +2,14 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**99 open jobs** (🟢 25 · 🟡 60 · ⚪ 14) · updated 2026-11-22 · checks every 5 minutes · sources working today: 5 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**104 open jobs** (🟢 26 · 🟡 63 · ⚪ 15) · updated 2026-11-22 · checks every 5 minutes · sources working today: 8 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 22 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Civil Engineer, Port Moresby](https://unjobs.org/vacancies/1795154481065) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (15 points) |
 | [Senior Project Associate –Infrastructure Support, Kigoma](https://unjobs.org/vacancies/1795183240776) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
 | [Irrigation And Rural Infrastructure Engineer, Rome](https://unjobs.org/vacancies/1795150888034) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (12 points) |
 | [Civil Engineer](https://unjobs.org/vacancies/1794996082781) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (11 points) |
@@ -39,6 +40,9 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1795089687646) 🆕 | via UNjobs · infrastructure projects | 2026-11-29 | 🔴 7 days | 🟡 Medium | Found automatically (7 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) 🆕 | via unvacancies · engineering | 2026-12-17 | 25 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) | via My link 2 | 2026-12-31 | 39 days | 🟡 Medium | Found automatically (7 points) |
+| [Construction Management Associate Engineer](https://unjobs.org/vacancies/1795161687376) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
+| [Civil Engineer](https://unjobs.org/vacancies/1795190488255) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (7 points) |
+| [Field Engineer, Malakal, Rumbek, Rubkona & Twic, Juba](https://unjobs.org/vacancies/1795323684768) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
 | [Market Infrastructure Specialist - Financials team](https://unjobs.org/vacancies/1795323642042) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Construction Management Engineer](https://unjobs.org/vacancies/1795161687773) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
 | [Construction Management Engineer](https://unjobs.org/vacancies/1795176082720) 🆕 | via UNjobs · infrastructure projects | – | check | 🟡 Medium | Found automatically (8 points) |
@@ -98,6 +102,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Civil Engineer, LICA-9, Tarawa - Kiribati](https://reliefweb.int/job/4239026/civil-engineer-lica-9-tarawa-kiribati) 🆕 | via My link 2 | 2026-12-02 | 10 days | ⚪ Low | Found automatically (5 points) |
 | [WASH Program Manager- Re-advertised - Syria Aleppo & Idleb](https://reliefweb.int/job/4239012/wash-program-manager-re-advertised-syria-aleppo-idleb) 🆕 | via My link 2 | 2026-12-03 | 11 days | ⚪ Low | Found automatically (5 points) |
 | [Civil Engineer](https://unvacancies.org/jobs/civil-engineer--2602361) 🆕 | via unvacancies · engineering | 2026-12-04 | 12 days | ⚪ Low | Found automatically (5 points) |
+| [Civil Engineer, Harare](https://unjobs.org/vacancies/1795323709396) 🆕 | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia](https://unjobs.org/vacancies/1794839191439) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [Construction Administration Officer (Lao national), Luang Namtha, Lao PDR](https://unjobs.org/vacancies/1794839756889) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
 | [WaSH and Shelter Technician](https://unjobs.org/vacancies/1794459680118) | via UNjobs · construction | – | check | ⚪ Low | Found automatically (5 points) |
@@ -327,15 +332,15 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-20 |
-| unvacancies · engineering | 2026-11-21 |
+| unvacancies · engineering | 2026-11-22 |
 | unvacancies · UNOPS | 2026-11-22 |
 | unvacancies · UN-Habitat | 2026-11-22 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-20 |
-| UNjobs · construction | 2026-11-21 |
+| UNjobs · construction | 2026-11-22 |
 | UNjobs · infrastructure projects | 2026-11-22 |
 | UNOPS careers | 2026-11-22 |
 | UNICEF · construction | 2026-11-12 |
-| My link 1 | 2026-11-21 |
+| My link 1 | 2026-11-22 |
 | My link 2 | 2026-11-22 |
 
 </details>
