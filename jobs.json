@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-20T3"
+    "muted": "2026-11-22T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-20T3"
+    "muted": "2026-11-22T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,7 +66,7 @@
     "muted": ""
    },
    "My link 2": {
-    "last_ok": "2026-11-20",
+    "last_ok": "2026-11-22",
     "muted": ""
    }
   },
@@ -78,6 +78,72 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795089687646",
+   "deadline": "2026-11-29",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Market Infrastructure Specialist - Financials team",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795323642042",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Construction Management Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795161687773",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Construction Management Engineer",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795176082720",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (8 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
+  {
+   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795253577638",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-22",
+   "status": "open",
+   "checked": "2026-11-22"
+  },
   {
    "title": "Senior Manufacturing Engineer - Component Manufacturing, San Jose, California, United States",
    "info": "via UNjobs · construction",
