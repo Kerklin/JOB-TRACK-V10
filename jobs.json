@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-21T2"
+    "muted": "2026-11-22T0"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-21T2"
+    "muted": "2026-11-22T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "2026-11-20",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": ""
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-21",
+    "last_ok": "2026-11-22",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-21",
+  "maint": "2026-11-22",
   "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -425,10 +425,10 @@
    "link": "https://unjobs.org/vacancies/1794762040764",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (14 points)",
+   "note": "Posting removed (checked 2026-11-22)",
    "found": "2026-11-15",
-   "status": "open",
-   "checked": "2026-11-15"
+   "status": "removed",
+   "checked": "2026-11-22"
   },
   {
    "title": "Field Project Assistant (Shelter/NFI), Chittagong",
@@ -439,7 +439,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-22"
   },
   {
    "title": "Field Engineer, Chaman, Pakistan",
@@ -450,7 +450,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-22"
   },
   {
    "title": "Senior Technical Officer -WASH, Maiduguri, Nigeria",
@@ -461,7 +461,7 @@
    "note": "Found automatically (14 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-22"
   },
   {
    "title": "100000000784.Project Engineer, Doha",
@@ -472,7 +472,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-22"
   },
   {
    "title": "E T Consultant - Environmental Engineer, Dhaka",
@@ -483,7 +483,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-22"
   },
   {
    "title": "Civil Engineer, Port Moresby",
@@ -494,7 +494,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-22"
   },
   {
    "title": "Lead Biomedical Engineer",
@@ -505,7 +505,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-15",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-22"
   },
   {
    "title": "WASH Specialist",
@@ -758,7 +758,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-08",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-22"
   },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
@@ -2760,7 +2760,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-10-06",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-22"
   },
   {
    "title": "Shelter and WaSH Technical Assistant Yemen Hodeidah (National)",
@@ -2870,7 +2870,7 @@
    "note": "Check it isn't local-hire only",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-22"
   },
   {
    "title": "ETC Construction Coordinator (5 positions)",
@@ -2881,7 +2881,7 @@
    "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-22"
   },
   {
    "title": "International Urban Design Lead Expert",
@@ -2914,7 +2914,7 @@
    "note": "Check deadline + work permit",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-22"
   },
   {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure)",
@@ -2936,7 +2936,7 @@
    "note": "French is a risk",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-22"
   },
   {
    "title": "Program Director for Europe",
@@ -2947,7 +2947,7 @@
    "note": "Stretch role",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-14"
+   "checked": "2026-11-22"
   },
   {
    "title": "Construction Project Manager – 12-month fixed term",
