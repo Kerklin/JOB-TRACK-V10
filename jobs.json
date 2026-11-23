@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-22T2"
+    "muted": "2026-11-23T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-22T2"
+    "muted": "2026-11-23T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-23",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,12 +66,12 @@
     "muted": ""
    },
    "My link 2": {
-    "last_ok": "2026-11-22",
+    "last_ok": "2026-11-23",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-22",
+  "maint": "2026-11-23",
   "vcheck": "2026-11-17",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -524,10 +524,10 @@
    "link": "https://unjobs.org/vacancies/1794735462576",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-11-16",
-   "status": "open",
-   "checked": "2026-11-16"
+   "status": "removed",
+   "checked": "2026-11-23"
   },
   {
    "title": "Emergency Program Manager II -JWBG, Gaza",
@@ -538,7 +538,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-16",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "title": "National Individual Consultancy- to support IPA 2020 project rehabilitation activities, Sarajevo, Bosnia and Herzegovina, 8 months, Remote and Office based with local travels",
@@ -780,7 +780,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "title": "ENGINEER, P3",
@@ -791,7 +791,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "title": "Mechanical Engineer",
@@ -802,7 +802,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies, Luxembourg",
@@ -824,7 +824,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-23"
   },
   {
    "title": "Construction Management Lead Engineer, Tashkent",
@@ -887,10 +887,10 @@
    "link": "https://jobs.unicef.org/en-us/job/596872/national-individual-consultancy-to-support-ipa-2020-project-rehabilitation-activities-sarajevo-bosnia-and-herzegovina-8-months-remote-and-office-based-with-local-travels",
    "deadline": "2026-11-15",
    "fit": "High",
-   "note": "Found automatically (16 points)",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-11-08",
-   "status": "open",
-   "checked": "2026-11-15"
+   "status": "removed",
+   "checked": "2026-11-23"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -1231,7 +1231,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-01",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-23"
   },
   {
    "title": "WASH Assistant - Electro-Mechanical Engineer, Gaza, State of Palestine",
@@ -1261,10 +1261,10 @@
    "link": "https://unjobs.org/vacancies/1793419279266",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (11 points)",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-11-01",
-   "status": "open",
-   "checked": "2026-11-15"
+   "status": "removed",
+   "checked": "2026-11-23"
   },
   {
    "title": "141 Chef.fe d’Equipe Infrastructure Wash : OFFRE INTERNE, Goma, Democratic Republic of Congo",
@@ -1316,10 +1316,10 @@
    "link": "https://unjobs.org/vacancies/1793365709954",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-15"
+   "status": "removed",
+   "checked": "2026-11-23"
   },
   {
    "title": "Civil Engineer (1 position), Libya",
@@ -1338,10 +1338,10 @@
    "link": "https://unjobs.org/vacancies/1793379654367",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (7 points)",
+   "note": "Posting removed (checked 2026-11-23)",
    "found": "2026-10-31",
-   "status": "open",
-   "checked": "2026-11-15"
+   "status": "removed",
+   "checked": "2026-11-23"
   },
   {
    "title": "Informal Settlements Urban Planning Senior Consultant",
@@ -1682,7 +1682,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-23"
   },
   {
    "title": "Director, Housing and Resilience Programs, Washington, United States",
@@ -1693,7 +1693,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-25",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-23"
   },
   {
    "title": "Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -2166,7 +2166,7 @@
    "note": "Found automatically (20 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-23"
   },
   {
    "title": "Technical Engineer Consultant",
@@ -2177,7 +2177,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-15"
+   "checked": "2026-11-23"
   },
   {
    "title": "Measurement, Cost And Contracts Engineer (for internal candidates only), 14",
@@ -2796,17 +2796,6 @@
    "checked": "2026-11-20"
   },
   {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/technical-supervisor-engineering-architecture-housing-improvements-t-285593",
-   "deadline": "2026-10-08",
-   "fit": "High",
-   "note": "Found automatically (16 points)",
-   "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-20"
-  },
-  {
    "title": "International Urban Design Lead Expert",
    "info": "via unvacancies · UN-Habitat",
    "link": "https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835",
@@ -3214,17 +3203,6 @@
    "checked": "2026-11-17"
   },
   {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-11-18"
-  },
-  {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
    "info": "UNICEF · BiH, remote with travel",
    "link": "https://unjobs.org/duty_stations/bosnia-and-herzegovina",
@@ -3245,17 +3223,6 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": ""
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-11-18"
   },
   {
    "title": "Director, Europe Sustainable Infrastructure, Energy",
