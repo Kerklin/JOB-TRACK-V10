@@ -2,13 +2,14 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**100 open jobs** (🟢 25 · 🟡 60 · ⚪ 15) · updated 2026-11-24 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**103 open jobs** (🟢 26 · 🟡 62 · ⚪ 15) · updated 2026-11-24 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 20 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
+| [Construction Management Associate Engineer, Tshikapa, Democratic Republic of Congo](https://unjobs.org/vacancies/1795514494018) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
 | [Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan](https://unjobs.org/vacancies/1795410065168) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (13 points) |
 | [Civil Engineer, Port Moresby](https://unjobs.org/vacancies/1795154481065) 🆕 | via UNjobs · construction | – | check | 🟢 High | Found automatically (15 points) |
 | [Senior Project Associate –Infrastructure Support, Kigoma](https://unjobs.org/vacancies/1795183240776) | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (12 points) |
@@ -37,6 +38,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5027) | via unvacancies · UNOPS | 2026-11-25 | 🔴 1 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-4959) 🆕 | via unvacancies · UNOPS | 2026-11-29 | 🔴 5 days | 🟡 Medium | Found automatically (7 points) |
 | [Senior Project Manager (Infrastructure)](https://unjobs.org/vacancies/1795089687646) 🆕 | via UNjobs · infrastructure projects | 2026-11-29 | 🔴 5 days | 🟡 Medium | Found automatically (7 points) |
+| [Senior Project Manager (Infrastructure)](https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248) 🆕 | via unvacancies · UNOPS | 2026-12-09 | 15 days | 🟡 Medium | Found automatically (7 points) |
+| [Senior Project Manager (Infrastructure), N'Djamena, Chad](https://unjobs.org/vacancies/1795514494559) 🆕 | via UNjobs · infrastructure projects | 2026-12-09 | 15 days | 🟡 Medium | Found automatically (7 points) |
 | [Irrigation And Rural Infrastructure Engineer](https://unvacancies.org/jobs/irrigation-and-rural-infrastructure-engineer--2602357) | via unvacancies · engineering | 2026-12-17 | 23 days | 🟡 Medium | Found automatically (6 points) |
 | [Project Manager, Health Infrastructure (Surkhet, Nepal)](https://reliefweb.int/job/4237408/project-manager-health-infrastructure-surkhet-nepal) | via My link 2 | 2026-12-31 | 37 days | 🟡 Medium | Found automatically (7 points) |
 | [Construction Management Associate Engineer](https://unjobs.org/vacancies/1795161687376) 🆕 | via UNjobs · construction | – | check | 🟡 Medium | Found automatically (6 points) |
@@ -109,7 +112,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Resident Engineer (BiH Tunnels)](https://ba.linkedin.com/jobs/view/resident-engineer-bih-tunnels-at-hill-international-inc-3971174262) | Hill International · Bosnia and Herzegovina | – | check | ⚪ Low | Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com |
 | [Director, Europe Sustainable Infrastructure, Energy](https://www.impactpool.org/jobs/c/jobs-at-ebrd) | EBRD · Warsaw / Kyiv / Belgrade / London | – | check | ⚪ Low | Very senior banking role |
 
-<details><summary>Closed or removed (185)</summary>
+<details><summary>Closed or removed (187)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
@@ -298,6 +301,8 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · BiH, remote with travel | 2026-10-14 | -41 days | 🟡 Medium | National consultancy in BiH – eligible. Links to your CSW work |
 | [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · Sarajevo | 2026-10-14 | -41 days | ⚪ Low | Social protection, not construction |
 | [Procurement Advisor](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Rio de Janeiro | 2026-10-10 | -45 days | ⚪ Low | Portuguese likely required |
+| [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -47 days | ⚪ Low | Displacement/CCCM focus. French likely |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/function/engineering) | UN-Habitat · Niterói, Brazil | 2026-10-08 | -47 days | ⚪ Low | Portuguese likely required |
 
 </details>
 

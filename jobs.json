@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-24T0"
+    "muted": "2026-11-24T2"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-24T0"
+    "muted": "2026-11-24T2"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -78,6 +78,39 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Senior Project Manager (Infrastructure)",
+   "info": "via unvacancies · UNOPS",
+   "link": "https://unvacancies.org/jobs/senior-project-manager-infrastructure-OPS-5248",
+   "deadline": "2026-12-09",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Construction Management Associate Engineer, Tshikapa, Democratic Republic of Congo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795514494018",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
+  {
+   "title": "Senior Project Manager (Infrastructure), N'Djamena, Chad",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795514494559",
+   "deadline": "2026-12-09",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
   {
    "title": "Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan",
    "info": "via UNjobs · infrastructure projects",
@@ -3207,6 +3240,28 @@
    "info": "UN-Habitat · Rio de Janeiro",
    "link": "https://unvacancies.org/jobs/organization/un-habitat",
    "deadline": "2026-10-10",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "Project Officer (Displacement Management)",
+   "info": "IOM · Antananarivo · P",
+   "link": "https://www.iom.int/Zc8",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Displacement/CCCM focus. French likely",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture)",
+   "info": "UN-Habitat · Niterói, Brazil",
+   "link": "https://unvacancies.org/jobs/function/engineering",
+   "deadline": "2026-10-08",
    "fit": "Low",
    "note": "Portuguese likely required",
    "found": "2026-10-05",
