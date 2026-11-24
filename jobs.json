@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-23T0"
+    "muted": "2026-11-24T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-23T0"
+    "muted": "2026-11-24T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-24",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,18 +66,29 @@
     "muted": ""
    },
    "My link 2": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-24",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-23",
-  "vcheck": "2026-11-17",
+  "maint": "2026-11-24",
+  "vcheck": "2026-11-24",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795410065168",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-11-24",
+   "status": "open",
+   "checked": "2026-11-24"
+  },
   {
    "title": "Civil Engineer, Port Moresby",
    "info": "via UNjobs · construction",
@@ -483,7 +494,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-24"
   },
   {
    "title": "Construction Administration Officer (Lao national), Luang Namtha, Lao PDR",
@@ -494,7 +505,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-24"
   },
   {
    "title": "Information Management Officer (WASH)",
@@ -505,7 +516,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-24"
   },
   {
    "title": "WaSH and Shelter Technician",
@@ -516,7 +527,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-17",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-24"
   },
   {
    "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
@@ -744,10 +755,10 @@
    "link": "https://unjobs.org/vacancies/1794157239920",
    "deadline": "",
    "fit": "High",
-   "note": "Found automatically (13 points)",
+   "note": "Posting removed (checked 2026-11-24)",
    "found": "2026-11-10",
-   "status": "open",
-   "checked": "2026-11-17"
+   "status": "removed",
+   "checked": "2026-11-24"
   },
   {
    "title": "Senior Infra DevOps Engineer, Warsaw",
@@ -835,7 +846,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-24"
   },
   {
    "title": "Construction Management Senior Associate Engineer, Tashkent",
@@ -846,7 +857,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-24"
   },
   {
    "title": "Quality Control Engineer, Tashkent",
@@ -857,7 +868,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-24"
   },
   {
    "title": "CRFM-Flood Protection and Water Resources Engineering Expert",
@@ -868,7 +879,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-09",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-24"
   },
   {
    "title": "Chief of Trust-Building Section, Sarajevo",
@@ -1979,7 +1990,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-21",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-24"
   },
   {
    "title": "Assistant Architect Design, Amman",
@@ -2210,7 +2221,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-10-16",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-24"
   },
   {
    "title": "Civil Engineer/Architect [Open to internal and external applicants], Sarajevo",
@@ -2675,17 +2686,6 @@
    "checked": "2026-10-17"
   },
   {
-   "title": "Technical Expert for District Heating (WASH), Kyiv",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791374669552",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-09)",
-   "found": "2026-10-07",
-   "status": "removed",
-   "checked": "2026-10-09"
-  },
-  {
    "title": "Director, Sustainable Infrastructure Portfolio and Implementation",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1791373293624",
@@ -2763,17 +2763,6 @@
    "checked": "2026-10-28"
   },
   {
-   "title": "Construction Engineer",
-   "info": "via UNjobs · construction",
-   "link": "https://unjobs.org/vacancies/1791345738022",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-09)",
-   "found": "2026-10-07",
-   "status": "removed",
-   "checked": "2026-10-09"
-  },
-  {
    "title": "SUDAN - WASH Program manager (M/F) - West and Central Darfur, Soudan",
    "info": "via UNjobs · construction",
    "link": "https://unjobs.org/vacancies/1791125088299",
@@ -2785,17 +2774,6 @@
    "checked": "2026-11-12"
   },
   {
-   "title": "Senior Drupal Infrastructure Engineer",
-   "info": "via unvacancies · engineering",
-   "link": "https://unvacancies.org/jobs/senior-drupal-infrastructure-engineer-73499157",
-   "deadline": "2026-10-09",
-   "fit": "Medium",
-   "note": "Found automatically (7 points)",
-   "found": "2026-10-06",
-   "status": "open",
-   "checked": "2026-11-20"
-  },
-  {
    "title": "International Urban Design Lead Expert",
    "info": "via unvacancies · UN-Habitat",
    "link": "https://unvacancies.org/jobs/international-urban-design-lead-expert-t-285835",
@@ -2805,17 +2783,6 @@
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-11-20"
-  },
-  {
-   "title": "Joint Project Coordinator [Opent to Tier 1 & 2 applicants], Sarajevo, Bosnia and Herzegovina",
-   "info": "via UNjobs · Bosnia and Herzegovina",
-   "link": "https://unjobs.org/vacancies/1790801308669",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-09)",
-   "found": "2026-10-06",
-   "status": "removed",
-   "checked": "2026-10-09"
   },
   {
    "title": "Project Manager, Sarajevo, Bosnia and Herzegovina",
@@ -3123,7 +3090,7 @@
    "note": "Needs stručni ispit (you have it) + civil engineering degree (yours is architecture)",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-24"
   },
   {
    "title": "Resident Engineer (BiH Tunnels)",
@@ -3134,7 +3101,7 @@
    "note": "Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-16"
+   "checked": "2026-11-24"
   },
   {
    "title": "Senior Programme Officer, Human Settlements (P-5)",
@@ -3240,28 +3207,6 @@
    "info": "UN-Habitat · Rio de Janeiro",
    "link": "https://unvacancies.org/jobs/organization/un-habitat",
    "deadline": "2026-10-10",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
    "fit": "Low",
    "note": "Portuguese likely required",
    "found": "2026-10-05",
