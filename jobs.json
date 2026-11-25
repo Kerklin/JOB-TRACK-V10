@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-24T2"
+    "muted": "2026-11-25T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-24T2"
+    "muted": "2026-11-25T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,18 +66,40 @@
     "muted": ""
    },
    "My link 2": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-25",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-24",
+  "maint": "2026-11-25",
   "vcheck": "2026-11-24",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "Water Infrastructure Specialist, Nairobi",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795582892400",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (9 points)",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25"
+  },
+  {
+   "title": "Project Manager, Interconnection Projects & Grid Infrastructure Delivery (Sr. or Staff)",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795582870177",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (7 points)",
+   "found": "2026-11-25",
+   "status": "open",
+   "checked": "2026-11-25"
+  },
   {
    "title": "Senior Project Manager (Infrastructure)",
    "info": "via unvacancies · UNOPS",
@@ -417,7 +439,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   {
    "title": "Construction Management Engineer",
@@ -428,7 +450,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   {
    "title": "Civil Engineer QA/QC (3 positions), Haiti",
@@ -439,7 +461,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   {
    "title": "Consultancy Services for the Technical Supervision of the Construction of 15 Blocks (60 Units) of VIP Latrines in Schools in West Pokot County",
@@ -450,7 +472,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-25"
   },
   {
    "title": "Infrastructure Specialist - (Dir Hafir)",
@@ -458,10 +480,10 @@
    "link": "https://reliefweb.int/job/4238039/infrastructure-specialist-dir-hafir",
    "deadline": "2026-11-19",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-25)",
    "found": "2026-11-18",
-   "status": "open",
-   "checked": "2026-11-18"
+   "status": "removed",
+   "checked": "2026-11-25"
   },
   {
    "title": "Project Manager, Health Infrastructure (Surkhet, Nepal)",
@@ -1220,7 +1242,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-02",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-25"
   },
   {
    "title": "WASH Officer, NO-2, Temporary Appointment, 6 months, Kharkiv, Ukraine, post#00138956",
@@ -1561,7 +1583,7 @@
    "note": "Found automatically (9 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-25"
   },
   {
    "title": "CfA 23-10/26 Field Engineer, Solidarity Fund",
@@ -1572,7 +1594,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-25"
   },
   {
    "title": "CfA 22-10/26 Senior Engineer, Solidarity Fund",
@@ -1583,7 +1605,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-27",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-25"
   },
   {
    "title": "Engineering and Shelter Team Leader, Bidibidi, Uganda",
@@ -2661,7 +2683,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-10-09",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-25"
   },
   {
    "title": "Construction Engineer",
@@ -2906,17 +2928,6 @@
    "checked": "2026-10-18"
   },
   {
-   "title": "Digital Infrastructure Engineer - AI Infrastructure and Strategic Technologies - based in Luxembourg",
-   "info": "via UNjobs · infrastructure projects",
-   "link": "https://unjobs.org/vacancies/1791190732675",
-   "deadline": "",
-   "fit": "Medium",
-   "note": "Posting removed (checked 2026-10-10)",
-   "found": "2026-10-06",
-   "status": "removed",
-   "checked": "2026-10-10"
-  },
-  {
    "title": "Shelter and Settlement Coordinator (Shelter, WASH and Infrastructure Coordinator), Beirut, Lebanon",
    "info": "via UNjobs · infrastructure projects",
    "link": "https://unjobs.org/vacancies/1790951875279",
@@ -2978,17 +2989,6 @@
    "deadline": "2026-10-14",
    "fit": "Medium",
    "note": "Check it isn't local-hire only",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-11-22"
-  },
-  {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-22"
@@ -3145,7 +3145,7 @@
    "note": "Stretch: urban planning/finance focus",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-25"
   },
   {
    "title": "Junior Housing and Urban Development Analyst",
@@ -3156,7 +3156,7 @@
    "note": "Junior – you're overqualified",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-25"
   },
   {
    "title": "Housing Policy Analysis and Reporting Specialist",
@@ -3200,7 +3200,7 @@
    "note": "Junior UNV, French. Listings disagree on national vs international",
    "found": "2026-10-05",
    "status": "open",
-   "checked": "2026-11-17"
+   "checked": "2026-11-25"
   },
   {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
@@ -3234,39 +3234,6 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-18"
-  },
-  {
-   "title": "Procurement Advisor",
-   "info": "UN-Habitat · Rio de Janeiro",
-   "link": "https://unvacancies.org/jobs/organization/un-habitat",
-   "deadline": "2026-10-10",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
   }
  ]
 }
