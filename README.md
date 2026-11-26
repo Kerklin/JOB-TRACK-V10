@@ -2,12 +2,13 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**99 open jobs** (🟢 26 · 🟡 59 · ⚪ 14) · updated 2026-11-26 · checks every 5 minutes · sources working today: 3 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**100 open jobs** (🟢 27 · 🟡 59 · ⚪ 14) · updated 2026-11-26 · checks every 5 minutes · sources working today: 6 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
+| [Construction Management Engineer, Bukavu, Democratic Republic of Congo](https://unjobs.org/vacancies/1795687286425) 🆕 | via UNjobs · infrastructure projects | 2026-11-26 | 🔴 0 days | 🟢 High | Found automatically (10 points) |
 | [Infrastructure Construction & Design Manager](https://www.drjobpro.com/bosnia-and-herzegovina/jobs/infrastructure-construction-design-manager-sarajevo-huawei-serbiahungary-rep-office-MU4J2B2F82PHSNG) | Huawei · Sarajevo | 2026-12-14 | 18 days | 🟢 High | Needs stručni ispit (you have it) + civil engineering degree (yours is architecture) |
 | [Construction Management Associate Engineer, Tshikapa, Democratic Republic of Congo](https://unjobs.org/vacancies/1795514494018) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (10 points) |
 | [Water & Shelter, Infrastructure (WASI) Officer (Engineer), West Area office (Herat Province ), Afghanistan](https://unjobs.org/vacancies/1795410065168) 🆕 | via UNjobs · infrastructure projects | – | check | 🟢 High | Found automatically (13 points) |
@@ -333,14 +334,14 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · engineer | not yet |
 | ReliefWeb · Bosnia and Herzegovina | 2026-11-23 |
 | unvacancies · engineering | 2026-11-22 |
-| unvacancies · UNOPS | 2026-11-25 |
+| unvacancies · UNOPS | 2026-11-26 |
 | unvacancies · UN-Habitat | 2026-11-26 |
 | UNjobs · Bosnia and Herzegovina | 2026-11-26 |
 | UNjobs · construction | 2026-11-22 |
-| UNjobs · infrastructure projects | 2026-11-25 |
+| UNjobs · infrastructure projects | 2026-11-26 |
 | UNOPS careers | 2026-11-26 |
 | UNICEF · construction | 2026-11-12 |
 | My link 1 | 2026-11-22 |
-| My link 2 | 2026-11-25 |
+| My link 2 | 2026-11-26 |
 
 </details>

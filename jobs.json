@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-25T2"
+    "muted": "2026-11-26T3"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-25T2"
+    "muted": "2026-11-26T3"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,8 +50,8 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-25",
-    "muted": "2026-11-25T2"
+    "last_ok": "2026-11-26",
+    "muted": ""
    },
    "UNOPS careers": {
     "last_ok": "2026-11-26",
@@ -66,7 +66,7 @@
     "muted": ""
    },
    "My link 2": {
-    "last_ok": "2026-11-25",
+    "last_ok": "2026-11-26",
     "muted": ""
    }
   },
@@ -78,6 +78,17 @@
   ]
  },
  "jobs": [
+  {
+   "title": "Construction Management Engineer, Bukavu, Democratic Republic of Congo",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795687286425",
+   "deadline": "2026-11-26",
+   "fit": "High",
+   "note": "Found automatically (10 points)",
+   "found": "2026-11-26",
+   "status": "open",
+   "checked": "2026-11-26"
+  },
   {
    "title": "Water Infrastructure Specialist, Nairobi",
    "info": "via UNjobs · infrastructure projects",
