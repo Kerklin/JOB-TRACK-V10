@@ -7,7 +7,7 @@
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
-    "muted": "2026-11-24T3"
+    "muted": "2026-11-26T1"
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
@@ -23,7 +23,7 @@
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
-    "muted": "2026-11-24T3"
+    "muted": "2026-11-26T1"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "2026-11-23",
@@ -38,7 +38,7 @@
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
@@ -54,7 +54,7 @@
     "muted": "2026-11-25T2"
    },
    "UNOPS careers": {
-    "last_ok": "2026-11-24",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNICEF · construction": {
@@ -3234,6 +3234,50 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-18"
+  },
+  {
+   "title": "ETC Construction Coordinator (5 positions)",
+   "info": "CTG · DR Congo",
+   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
+   "deadline": "2026-10-10",
+   "fit": "High",
+   "note": "Check French + nationality rules",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "Project Officer (Displacement Management)",
+   "info": "IOM · Antananarivo · P",
+   "link": "https://www.iom.int/Zc8",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Displacement/CCCM focus. French likely",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture)",
+   "info": "UN-Habitat · Niterói, Brazil",
+   "link": "https://unvacancies.org/jobs/function/engineering",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "Procurement Advisor",
+   "info": "UN-Habitat · Rio de Janeiro",
+   "link": "https://unvacancies.org/jobs/organization/un-habitat",
+   "deadline": "2026-10-10",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
   }
  ]
 }
