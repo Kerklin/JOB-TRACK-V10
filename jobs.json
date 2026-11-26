@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-23T3"
+    "muted": "2026-11-26T0"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -27,7 +27,7 @@
    },
    "ReliefWeb · Bosnia and Herzegovina": {
     "last_ok": "2026-11-23",
-    "muted": ""
+    "muted": "2026-11-26T0"
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-22",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-23",
+    "last_ok": "2026-11-26",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,7 +59,7 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-12",
-    "muted": "2026-11-23T3"
+    "muted": "2026-11-26T0"
    },
    "My link 1": {
     "last_ok": "2026-11-22",
@@ -71,7 +71,7 @@
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-25",
+  "maint": "2026-11-26",
   "vcheck": "2026-11-24",
   "outdated": [
    "actions/checkout@v6 → @v7"
@@ -494,7 +494,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "Advisor, Financial Systems & Digital Infrastructure",
@@ -505,7 +505,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "Local Individual Contractor (Civil Work Engineer), Bishkek",
@@ -516,7 +516,7 @@
    "note": "Found automatically (15 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "WASH Engineer, Mindanao, Philippines",
@@ -527,7 +527,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "Market Infrastructure Specialist in the Project Management Office for the digital euro, Frankfurt am Main, Germany",
@@ -538,7 +538,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-18",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "Call for Construction of Two Solar Safe Drinking Water Stations in Oddar Meanchey Province, Phnom Penh, Cambodia",
@@ -824,7 +824,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "Design Engineer, Yangon",
@@ -835,7 +835,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-10",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "Construction Management Lead Engineer",
@@ -1110,7 +1110,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "(Senior) Investment Officer, Infrastructure Europe",
@@ -1121,7 +1121,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-03",
    "status": "open",
-   "checked": "2026-11-18"
+   "checked": "2026-11-26"
   },
   {
    "title": "Climate-Resilient Health Care Facilities, Cairo",
@@ -1151,10 +1151,10 @@
    "link": "https://unjobs.org/vacancies/1793725269609",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-18"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Mechanical Engineer",
@@ -1162,10 +1162,10 @@
    "link": "https://unjobs.org/vacancies/1793714480168",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-18"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Mechanical Engineer, Homs, Syria",
@@ -1173,10 +1173,10 @@
    "link": "https://unjobs.org/vacancies/1793714480525",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (8 points)",
+   "note": "Posting removed (checked 2026-11-26)",
    "found": "2026-11-03",
-   "status": "open",
-   "checked": "2026-11-18"
+   "status": "removed",
+   "checked": "2026-11-26"
   },
   {
    "title": "Senior Project Manager (Infrastructure), Tshikapa, Democratic Republic Of Congo",
@@ -3234,50 +3234,6 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-18"
-  },
-  {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Procurement Advisor",
-   "info": "UN-Habitat · Rio de Janeiro",
-   "link": "https://unvacancies.org/jobs/organization/un-habitat",
-   "deadline": "2026-10-10",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
   }
  ]
 }
