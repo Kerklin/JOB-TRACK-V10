@@ -2,7 +2,7 @@
 
 > ⚠️ **Update needed in jobs.yml: actions/checkout@v6 → @v7**
 
-**95 open jobs** (🟢 25 · 🟡 56 · ⚪ 14) · updated 2026-11-27 · checks every 5 minutes · sources working today: 2 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
+**95 open jobs** (🟢 25 · 🟡 56 · ⚪ 14) · updated 2026-11-27 · checks every 5 minutes · sources working today: 4 of 17 · 🌐 **[Open the web page](https://kerklin.github.io/JOB-TRACK-V10/)**
 
 Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days or less left · always confirm the deadline on the official posting
 
@@ -104,7 +104,7 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Resident Engineer (BiH Tunnels)](https://ba.linkedin.com/jobs/view/resident-engineer-bih-tunnels-at-hill-international-inc-3971174262) | Hill International · Bosnia and Herzegovina | – | check | ⚪ Low | Needs 10 yrs transport + tunnels. Confirm still open. CV to career-tr@hillintl.com |
 | [Director, Europe Sustainable Infrastructure, Energy](https://www.impactpool.org/jobs/c/jobs-at-ebrd) | EBRD · Warsaw / Kyiv / Belgrade / London | – | check | ⚪ Low | Very senior banking role |
 
-<details><summary>Closed or removed (191)</summary>
+<details><summary>Closed or removed (195)</summary>
 
 | Job | Employer · place | Deadline | Left | Fit | Note |
 |---|---|---|---|---|---|
@@ -299,6 +299,10 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | [Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)](https://www.impactpool.org/jobs/1239099) | UNV · Korhogo | 2026-10-13 | -45 days | ⚪ Low | Junior UNV, French. Listings disagree on national vs international |
 | [National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · BiH, remote with travel | 2026-10-14 | -44 days | 🟡 Medium | National consultancy in BiH – eligible. Links to your CSW work |
 | [National Consultants for Field Implementation, EU4People Social Protection](https://unjobs.org/duty_stations/bosnia-and-herzegovina) | UNICEF · Sarajevo | 2026-10-14 | -44 days | ⚪ Low | Social protection, not construction |
+| [ETC Construction Coordinator (5 positions)](https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167) | CTG · DR Congo | 2026-10-10 | -48 days | 🟢 High | Check French + nationality rules |
+| [Project Officer (Displacement Management)](https://www.iom.int/Zc8) | IOM · Antananarivo · P | 2026-10-08 | -50 days | ⚪ Low | Displacement/CCCM focus. French likely |
+| [Technical Supervisor (Engineering/Architecture)](https://unvacancies.org/jobs/function/engineering) | UN-Habitat · Niterói, Brazil | 2026-10-08 | -50 days | ⚪ Low | Portuguese likely required |
+| [Procurement Advisor](https://unvacancies.org/jobs/organization/un-habitat) | UN-Habitat · Rio de Janeiro | 2026-10-10 | -48 days | ⚪ Low | Portuguese likely required |
 
 </details>
 
@@ -326,11 +330,11 @@ Sorted by fit, then deadline · 🆕 = found in the last 2 days · 🔴 = 7 days
 | ReliefWeb · architect | not yet |
 | ReliefWeb · housing | not yet |
 | ReliefWeb · engineer | not yet |
-| ReliefWeb · Bosnia and Herzegovina | 2026-11-23 |
+| ReliefWeb · Bosnia and Herzegovina | 2026-11-27 |
 | unvacancies · engineering | 2026-11-22 |
 | unvacancies · UNOPS | 2026-11-26 |
 | unvacancies · UN-Habitat | 2026-11-27 |
-| UNjobs · Bosnia and Herzegovina | 2026-11-26 |
+| UNjobs · Bosnia and Herzegovina | 2026-11-27 |
 | UNjobs · construction | 2026-11-22 |
 | UNjobs · infrastructure projects | 2026-11-26 |
 | UNOPS careers | 2026-11-27 |

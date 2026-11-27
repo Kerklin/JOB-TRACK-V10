@@ -11,7 +11,7 @@
    },
    "ReliefWeb · shelter": {
     "last_ok": "",
-    "muted": "2026-11-26T0"
+    "muted": "2026-11-27T1"
    },
    "ReliefWeb · architect": {
     "last_ok": "",
@@ -26,8 +26,8 @@
     "muted": "2026-11-27T0"
    },
    "ReliefWeb · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-23",
-    "muted": "2026-11-26T0"
+    "last_ok": "2026-11-27",
+    "muted": ""
    },
    "unvacancies · engineering": {
     "last_ok": "2026-11-22",
@@ -42,7 +42,7 @@
     "muted": ""
    },
    "UNjobs · Bosnia and Herzegovina": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-27",
     "muted": ""
    },
    "UNjobs · construction": {
@@ -59,7 +59,7 @@
    },
    "UNICEF · construction": {
     "last_ok": "2026-11-12",
-    "muted": "2026-11-26T0"
+    "muted": "2026-11-27T1"
    },
    "My link 1": {
     "last_ok": "2026-11-22",
@@ -3223,6 +3223,50 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-27"
+  },
+  {
+   "title": "ETC Construction Coordinator (5 positions)",
+   "info": "CTG · DR Congo",
+   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
+   "deadline": "2026-10-10",
+   "fit": "High",
+   "note": "Check French + nationality rules",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "Project Officer (Displacement Management)",
+   "info": "IOM · Antananarivo · P",
+   "link": "https://www.iom.int/Zc8",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Displacement/CCCM focus. French likely",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "Technical Supervisor (Engineering/Architecture)",
+   "info": "UN-Habitat · Niterói, Brazil",
+   "link": "https://unvacancies.org/jobs/function/engineering",
+   "deadline": "2026-10-08",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
+  },
+  {
+   "title": "Procurement Advisor",
+   "info": "UN-Habitat · Rio de Janeiro",
+   "link": "https://unvacancies.org/jobs/organization/un-habitat",
+   "deadline": "2026-10-10",
+   "fit": "Low",
+   "note": "Portuguese likely required",
+   "found": "2026-10-05",
+   "status": "open",
+   "checked": ""
   }
  ]
 }
