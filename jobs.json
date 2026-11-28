@@ -3,7 +3,7 @@
   "sources": {
    "ReliefWeb · construction": {
     "last_ok": "",
-    "muted": "2026-11-26T3"
+    "muted": "2026-11-28T0"
    },
    "ReliefWeb · infrastructure": {
     "last_ok": "",
@@ -19,7 +19,7 @@
    },
    "ReliefWeb · housing": {
     "last_ok": "",
-    "muted": "2026-11-26T3"
+    "muted": "2026-11-28T0"
    },
    "ReliefWeb · engineer": {
     "last_ok": "",
@@ -34,7 +34,7 @@
     "muted": ""
    },
    "unvacancies · UNOPS": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "unvacancies · UN-Habitat": {
@@ -50,7 +50,7 @@
     "muted": ""
    },
    "UNjobs · infrastructure projects": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    },
    "UNOPS careers": {
@@ -66,18 +66,40 @@
     "muted": ""
    },
    "My link 2": {
-    "last_ok": "2026-11-26",
+    "last_ok": "2026-11-28",
     "muted": ""
    }
   },
   "since": "2026-10-06",
-  "maint": "2026-11-27",
+  "maint": "2026-11-28",
   "vcheck": "2026-11-24",
   "outdated": [
    "actions/checkout@v6 → @v7"
   ]
  },
  "jobs": [
+  {
+   "title": "E T Consultant – Infrastructure Investment, Kyiv",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795755690002",
+   "deadline": "",
+   "fit": "Medium",
+   "note": "Found automatically (6 points)",
+   "found": "2026-11-28",
+   "status": "open",
+   "checked": "2026-11-28"
+  },
+  {
+   "title": "WaSH Field Officer (Infrastructure background), Tyre, Lebanon",
+   "info": "via UNjobs · infrastructure projects",
+   "link": "https://unjobs.org/vacancies/1795755649728",
+   "deadline": "",
+   "fit": "High",
+   "note": "Found automatically (13 points)",
+   "found": "2026-11-28",
+   "status": "open",
+   "checked": "2026-11-28"
+  },
   {
    "title": "Construction Management Engineer, Bukavu, Democratic Republic of Congo",
    "info": "via UNjobs · infrastructure projects",
@@ -340,7 +362,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-20",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Civil Engineer, LICA-9, Tarawa - Kiribati",
@@ -351,7 +373,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-20",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "WASH Program Manager- Re-advertised - Syria Aleppo & Idleb",
@@ -362,7 +384,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-20",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Nuclear Engineer (PRIS)(P4), IAEA Headquarters, Austria",
@@ -373,7 +395,7 @@
    "note": "Found automatically (8 points)",
    "found": "2026-11-20",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Irrigation And Rural Infrastructure Engineer, Rome",
@@ -384,7 +406,7 @@
    "note": "Found automatically (12 points)",
    "found": "2026-11-20",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "WaSH Field Officer (Infrastructure background) - Tyre",
@@ -392,10 +414,10 @@
    "link": "https://unjobs.org/vacancies/1795150864310",
    "deadline": "",
    "fit": "Medium",
-   "note": "Found automatically (6 points)",
+   "note": "Posting removed (checked 2026-11-28)",
    "found": "2026-11-20",
-   "status": "open",
-   "checked": "2026-11-20"
+   "status": "removed",
+   "checked": "2026-11-28"
   },
   {
    "title": "Irrigation And Rural Infrastructure Engineer",
@@ -406,7 +428,7 @@
    "note": "Found automatically (6 points)",
    "found": "2026-11-20",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Civil Engineer",
@@ -417,7 +439,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-20",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Lead Civil Engineer",
@@ -428,7 +450,7 @@
    "note": "Found automatically (11 points)",
    "found": "2026-11-20",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Re-Advertisement: Communication Associate – EU-funded Social Protection (EU4PEOPLE) and Roma Inclusion Programmes, Communication section, 36 months, Sarajevo, Bosnia and Herzegovina (Nationals only) Office Based",
@@ -769,7 +791,7 @@
    "note": "Found automatically (7 points)",
    "found": "2026-11-13",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Senior Facilities Management, Infrastructure & Sustainability Consultant",
@@ -1000,7 +1022,7 @@
    "note": "Found automatically (5 points)",
    "found": "2026-11-05",
    "status": "open",
-   "checked": "2026-11-20"
+   "checked": "2026-11-28"
   },
   {
    "title": "Project Manager (PMP Certification- Must), Kuala Lumpur, Malaysia",
@@ -2771,7 +2793,7 @@
    "note": "Found automatically (10 points)",
    "found": "2026-10-07",
    "status": "open",
-   "checked": "2026-11-19"
+   "checked": "2026-11-28"
   },
   {
    "title": "ENGINEER, P4",
@@ -2827,17 +2849,6 @@
    "found": "2026-10-06",
    "status": "open",
    "checked": "2026-11-20"
-  },
-  {
-   "title": "Project Manager, Sarajevo, Bosnia and Herzegovina",
-   "info": "via UNjobs · Bosnia and Herzegovina",
-   "link": "https://unjobs.org/vacancies/1789649136938",
-   "deadline": "",
-   "fit": "High",
-   "note": "Posting removed (checked 2026-10-13)",
-   "found": "2026-10-06",
-   "status": "removed",
-   "checked": "2026-10-13"
   },
   {
    "title": "Commercial Project Manager (m/f/d), Sarajevo, Bosnia and Herzegovina",
@@ -3181,17 +3192,6 @@
    "checked": ""
   },
   {
-   "title": "Construction Engineer – UNICEF Côte d'Ivoire (UN Volunteer)",
-   "info": "UNV · Korhogo",
-   "link": "https://www.impactpool.org/jobs/1239099",
-   "deadline": "2026-10-13",
-   "fit": "Low",
-   "note": "Junior UNV, French. Listings disagree on national vs international",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": "2026-11-25"
-  },
-  {
    "title": "National Lead Consultant – Field Implementation, Coordination and QA, EU4People Social Protection",
    "info": "UNICEF · BiH, remote with travel",
    "link": "https://unjobs.org/duty_stations/bosnia-and-herzegovina",
@@ -3223,50 +3223,6 @@
    "found": "2026-10-05",
    "status": "open",
    "checked": "2026-11-27"
-  },
-  {
-   "title": "ETC Construction Coordinator (5 positions)",
-   "info": "CTG · DR Congo",
-   "link": "https://app.tayohr.io/jobs/detail/vac-74481-etc-construction-coordinator-73167",
-   "deadline": "2026-10-10",
-   "fit": "High",
-   "note": "Check French + nationality rules",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Project Officer (Displacement Management)",
-   "info": "IOM · Antananarivo · P",
-   "link": "https://www.iom.int/Zc8",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Displacement/CCCM focus. French likely",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Technical Supervisor (Engineering/Architecture)",
-   "info": "UN-Habitat · Niterói, Brazil",
-   "link": "https://unvacancies.org/jobs/function/engineering",
-   "deadline": "2026-10-08",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
-  },
-  {
-   "title": "Procurement Advisor",
-   "info": "UN-Habitat · Rio de Janeiro",
-   "link": "https://unvacancies.org/jobs/organization/un-habitat",
-   "deadline": "2026-10-10",
-   "fit": "Low",
-   "note": "Portuguese likely required",
-   "found": "2026-10-05",
-   "status": "open",
-   "checked": ""
   }
  ]
 }
